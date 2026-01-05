@@ -14,9 +14,9 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install pandas requests
-      - name: Run scraper and check for alerts
+      - run: python scraper.py
+      - name: Check for Reform/Lowe updates
         run: |
-          python scraper.py
           python << 'EOF'
           import sqlite3
           import pandas as pd
@@ -25,7 +25,6 @@ jobs:
           conn = sqlite3.connect('data/mp_earnings.db')
           yesterday = (datetime.now() - timedelta(days=1)).isoformat()
           
-          # Check for new Reform or Rupert Lowe entries
           new = pd.read_sql_query("""
               SELECT member, category, value, summary 
               FROM interests 
@@ -34,26 +33,13 @@ jobs:
           """, conn, params=(yesterday,))
           
           if len(new) > 0:
-              print("::warning::NEW REFORM/LOWE INTERESTS DETECTED")
+              print("🚨 NEW REFORM/LOWE INTERESTS:")
               for _, row in new.iterrows():
-                  print(f"  - {row['member']}: £{row['value']} ({row['category']})")
-              with open('ALERT.txt', 'w') as f:
-                  f.write(f"New interests detected on {datetime.now().strftime('%Y-%m-%d')}:\n\n")
-                  for _, row in new.iterrows():
-                      f.write(f"{row['member']}: £{row['value']}\n{row['summary']}\n\n")
+                  val = f"£{row['value']:,.0f}" if pd.notna(row['value']) else "N/A"
+                  print(f"::warning::{row['member']} - {val} - {row['category']}")
+          else:
+              print("✅ No new Reform/Lowe interests")
           EOF
-      - name: Send email alert
-        if: hashFiles('ALERT.txt') != ''
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 587
-          username: ${{ secrets.EMAIL_USER }}
-          password: ${{ secrets.EMAIL_PASS }}
-          subject: "🚨 New MP Interest: Reform/Lowe"
-          body: file://ALERT.txt
-          to: ${{ secrets.ALERT_EMAIL }}
-          from: MP Earnings Bot
       - run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
