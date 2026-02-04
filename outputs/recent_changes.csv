@@ -1,4 +1,181 @@
 id,interest_hash,change_type,detected_at,old_value,new_value,member,category
+7680,ccaaf581dcdfed84922f1c615c8c6d1f,new,2026-02-04T06:51:47.985159,,"Payment received on 14 January 2026 - £11,050.00",Sir Geoffrey Cox,ad_hoc_payments
+7681,89fc8005774e1c8cd7be03fe305ba5bb,new,2026-02-04T06:51:47.985159,,"Payment received on 14 January 2026 - £7,500.00",Sir Geoffrey Cox,ad_hoc_payments
+7682,2bb4cd2452a2d0ead006dae2493c7e37,new,2026-02-04T06:51:47.985159,,"Payment received on 07 January 2026 - £1,131.00",Tony Vaughan,ad_hoc_payments
+7683,36df1b6f2805e70023fefbddbe17c2fb,new,2026-02-04T06:51:47.985159,,"Payment received on 16 January 2026 - £27,400.66",Rishi Sunak,ad_hoc_payments
+7684,58f70352cf4f6f72e5104c56e79b310f,new,2026-02-04T06:51:47.985159,,Payment received on 29 January 2026 - £347.00,Ms Stella Creasy,ad_hoc_payments
+7685,4a4d74c53f5ca535395790ecacc2e726,new,2026-02-04T06:51:47.985159,,Payment received on 29 January 2026 - £850.00,Dan Carden,ad_hoc_payments
+7686,63539ca3d7a704fea81a53bcbba63b9e,new,2026-02-04T06:51:47.985159,,"Payment received on 29 January 2026 - £4,000.00",Steve Barclay,ad_hoc_payments
+7687,398d64c2c265bf78cedb2c365d2311f2,new,2026-02-04T06:51:47.985159,,Payment received on 06 March 2025 - £296.68,Ms Stella Creasy,ad_hoc_payments
+7688,ad4b3b436f190e0f3283a392731ee103,new,2026-02-04T06:51:47.985159,,Payment received on 27 November 2025 - £150.00,Ms Stella Creasy,ad_hoc_payments
+7689,d54a56741835405b6ccf97d3538cc8aa,new,2026-02-04T06:51:47.985159,,Payment received on 16 January 2026 - £650.00,Barry Gardiner,ad_hoc_payments
+7690,efee4105c3aed3912a8b6eb79e0c6da2,new,2026-02-04T06:51:47.985159,,"Payment received on 22 January 2026 - £1,000.00",Barry Gardiner,ad_hoc_payments
+7691,edd1475a017dac5a1d208a5c1facf31a,new,2026-02-04T06:51:47.985159,,"Payment received on 28 January 2026 - £1,573.00",Ayoub Khan,ad_hoc_payments
+7692,77ce33bf1ad87c19d727c469ac5d4dbc,new,2026-02-04T06:51:47.985159,,"Payment received on 23 January 2026 - £1,273.85",David Pinto-Duschinsky,ad_hoc_payments
+7693,d447956832704673d9c078ae2dc0f8e4,new,2026-02-04T06:51:47.985159,,Payment received on 21 January 2026 - £504.14,Nigel Farage,ad_hoc_payments
+7694,d5e56636de48925c9e663108b9cac98c,new,2026-02-04T06:51:47.985159,,Payment received on 07 January 2026 - £794.78,Nigel Farage,ad_hoc_payments
+7695,22d57b09806d91b59c143bbeae7d8fa2,new,2026-02-04T06:51:47.985159,,Payment received on 15 January 2026 - £320.00,Sir Iain Duncan Smith,ad_hoc_payments
+7696,736f787b868caa7a5c98b01e49149ea0,new,2026-02-04T06:51:47.985159,,Payment received on 21 January 2026 - £137.92,Lee Anderson,ad_hoc_payments
+7697,e31e61117c3ca1473f02fd7fbbb63aa2,new,2026-02-04T06:51:47.985159,,"Payment received on 12 January 2026 - £10,000.00",Sir Oliver Dowden,ad_hoc_payments
+7698,86e31999309249ab9070814f11e9e1b3,new,2026-02-04T06:51:47.985159,,Payment received on 31 December 2025 - £430.56,Chris Coghlan,ad_hoc_payments
+7699,9774d8cd6c05819297226db875bf27ae,new,2026-02-04T06:51:47.985159,,Payment expected for services on 08 December 2025 - £100.00,Clive Lewis,ad_hoc_payments
+7700,6b6fbaf5fa59e4e97f47092c794ef5a2,new,2026-02-04T06:51:47.985159,,Payment expected for services on 10 December 2025 - £100.00,Clive Lewis,ad_hoc_payments
+7701,23bdc87cc67845e110930d247c3fd3de,new,2026-02-04T06:51:47.985159,,"Agreement starting 21 October 2025 - £28,500.00",Rishi Sunak,ongoing_employment
+7702,f00ca551bf3facbd7290bf36c84025fd,new,2026-02-04T06:51:47.985159,,"Iain Gorman - £5,000.00",Lee Anderson,donations
+7703,b3e1e1462415f2e6ebbea95c2ed04db0,new,2026-02-04T06:51:47.985159,,"Social Workers Union (SWU) and British Association of Social Workers (BASW) - £4,868.12",Ian Byrne,donations
+7704,706d66d0f64c6407975c8dd5b47c0d4b,new,2026-02-04T06:51:47.985159,,"Key Cities (Network) - £1,667.00",Rebecca Long Bailey,donations
+7705,bea235746a78d9f15574ff58fb5d1daa,new,2026-02-04T06:51:47.985159,,"Estates UK - £1,510.41",Martin Vickers,donations
+7706,e5607e84db4e01a0f5f6508ba35dd83f,new,2026-02-04T06:51:47.985159,,"Orla Dunn - £5,000.00",Munira Wilson,donations
+7707,9679ad36b8f3be0f79fc09bfb057fc7f,new,2026-02-04T06:51:47.985159,,"International Centre of Justice for Palestinians (ICJP) - £40,000.00",Iqbal Mohamed,donations
+7708,84a462a8d1904fdf525c45a62ab16984,new,2026-02-04T06:51:47.985159,,"Bansols Beta Ltd - £10,000.00",Dr Ben Spencer,donations
+7709,0c942a57211e9d280649a5b08dd1ab75,new,2026-02-04T06:51:47.985159,,"James Mellon - £10,000.00",Mrs Kemi Badenoch,donations
+7710,6810ab28d1f688481abe968012381630,new,2026-02-04T06:51:47.985159,,"International Centre of Justice for Palestinians - £40,000.00",Ayoub Khan,donations
+7711,aee7eb83b9d280cbd5e2a4d78dbce08f,new,2026-02-04T06:51:47.985159,,"UNISON - £2,000.00",Liz Twist,donations
+7712,3d09c2a2b0ad25b176e87ae3a2f6b5a5,new,2026-02-04T06:51:47.985159,,"Homes for Britain Ltd - £2,155.00",Mike Reader,donations
+7713,c5e3b0c5943cc939150de296a9a002a5,new,2026-02-04T06:51:47.985159,,Barking and Dagenham College - £750.00,Margaret Mullane,donations
+7714,077f6359e0a56e4a34752fc75951b644,new,2026-02-04T06:51:47.985159,,"James Stewart - £6,000.00",David Mundell,donations
+7715,6abe42f3348d2abf599a83e2df827d54,new,2026-02-04T06:51:47.985159,,"Sophie Smith - £4,000.00",Laura Trott,donations
+7716,4b4820a948ea59b2688bceb495ba110b,new,2026-02-04T06:51:47.985159,,"Ian Howard - £5,000.00",Alison Bennett,donations
+7717,937c511c490e816bfa03754c8936ec60,new,2026-02-04T06:51:47.985159,,"UNISON - £2,000.00",Mark Ferguson,donations
+7718,dbd0fcd6c85ad7ed2c0c11b082d8692c,new,2026-02-04T06:51:47.985159,,"The British Society for Antimicrobial Chemotherapy - £2,222.22",Dr Danny Chambers,donations
+7719,2d36d396634d526af9c19a0953278c45,new,2026-02-04T06:51:47.985159,,"Playscan Limited - £50,000.00",Lucy Powell,donations
+7720,c176e7d3945b744c62aa7992c26522ae,new,2026-02-04T06:51:47.985159,,"Neil Hudgell Limited - £3,000.00",Karl Turner,donations
+7721,bec68640f21f950fdcd97fa5bdbf0454,new,2026-02-04T06:51:47.985159,,"Brecon & Radnorshire Lib Dem 49 Club - £4,100.00",David Chadwick,donations
+7722,b0599824586d22a23a22392f39c46967,new,2026-02-04T06:51:47.985159,,"University and College Union - £25,187.00",Rachael Maskell,donations
+7723,6359505105b05b6cdb2b7952e4001677,new,2026-02-04T06:51:47.985159,,"Michael Watson - £1,600.00",David Chadwick,donations
+7724,b7bd8ea6e6e9358f9b3299a8affca9af,new,2026-02-04T06:51:47.985159,,"Edward Garton Woods - £5,000.00",Helen Whately,donations
+7725,85c87c9a7c6dbc8dd422acc1851444c7,new,2026-02-04T06:51:47.985159,,"Refrigeration House Limited - £50,000.00",Angela Rayner,donations
+7726,c9dc7330d3b1a4994b1a62261609b913,new,2026-02-04T06:51:47.985159,,"GMB Southern Region - £7,200.00",Helena Dollimore,donations
+7727,f890c512bd726b2f6750d4f32f007443,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,348.00",Monica Harding,gifts_uk
+7728,b2d8f5bd7668a8dd2e4a16ce29949cd2,new,2026-02-04T06:51:47.985159,,Wyre Holdings Ltd - £900.00,Stephen Flynn,gifts_uk
+7729,21706fd1dd649fbf9f9e849ae843e86b,new,2026-02-04T06:51:47.985159,,Barbara Daniel - £350.00,Emily Darlington,gifts_uk
+7730,94640f03396dd9e1f6bf06ec18f83121,new,2026-02-04T06:51:47.985159,,Motorsport UK Association Ltd - £600.00,Sarah Bool,gifts_uk
+7731,190f25fdb62c7911ec0615f106ce32b9,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Ian Sollom,gifts_uk
+7732,14eefb12db3821d660399d201a99b416,new,2026-02-04T06:51:47.985159,,"Motorsport UK - £1,200.00",Greg Smith,gifts_uk
+7733,a77d74081f6a070091b778452f142219,new,2026-02-04T06:51:47.985159,,"Motorsport UK - £1,200.00",Nigel Huddleston,gifts_uk
+7734,a95ad75f58f5ff8984bcf2eccccdc37f,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Lisa Smart,gifts_uk
+7735,79038909acd0d988492944e8165dc3ac,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Daisy Cooper,gifts_uk
+7736,2463bcaec645bca2e03689faaec6570e,new,2026-02-04T06:51:47.985159,,"The National Liberal Club - £1,140.00",Alison Bennett,gifts_uk
+7737,7d35f2d50ac421dd9de6807dae5eba6f,new,2026-02-04T06:51:47.985159,,"The Football Association Premier League Ltd - £1,300.00",Munira Wilson,gifts_uk
+7738,1537ea690ee2d7ca98942cb6163c17af,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Charlotte Cane,gifts_uk
+7739,fa02808b5c65cd7552f3e0fb45207f1f,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Bobby Dean,gifts_uk
+7740,ca0d9275d7db5fb73fea8b7de56a40ec,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Luke Taylor,gifts_uk
+7741,d2d2f308e1d8a19513134b6f7791c966,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Dr Danny Chambers,gifts_uk
+7742,71ae0432d3dc0f8a81cc149011cb7f56,new,2026-02-04T06:51:47.985159,,International visit to France between 15 January 2026 and 17 January 2026,Jesse Norman,visits
+7743,f173a71ea9872377c9b85801c8670015,new,2026-02-04T06:51:47.985159,,International visit to India between 02 January 2026 and 06 January 2026,Bob Blackman,visits
+7744,6728d9c1ad8fdf448c25e3f7eb8a3f10,new,2026-02-04T06:51:47.985159,,International visit to Israel between 04 January 2026 and 09 January 2026,Greg Smith,visits
+7745,2c421da2299b16876319e966eaf54045,new,2026-02-04T06:51:47.985159,,International visit to Israel between 04 January 2026 and 09 January 2026,Paul Holmes,visits
+7746,1720c5e00163ece5e08e651e6b6fbfe9,new,2026-02-04T06:51:47.985159,,International visit to Switzerland between 21 January 2026 and 22 January 2026,Nigel Farage,visits
+7747,999e085d1e656152e845016cc9d0a3ce,new,2026-02-04T06:51:47.985159,,International visit to Australia between 26 December 2025 and 06 January 2026,James Wild,visits
+7748,f2a876edce33ba007be4ba4cc8838aaf,new,2026-02-04T06:51:47.985159,,International visit to Qatar between 05 December 2025 and 08 December 2025,Kit Malthouse,visits
+7749,1f79d0ec94a71d86dea3e63dec50843d,new,2026-02-04T06:51:47.985159,,International visit to Israel between 04 January 2026 and 09 January 2026,Anna Firth,visits
+7750,31c3c28a1a0b555ac930a1a94a5f6ad0,new,2026-02-04T06:51:47.985159,,"Paddy Power part of Flutter Entertainment plc - £1,000.00",Amanda Martin,gifts_foreign
+7751,43f7e8aa75902f37408a61fce13d5b39,new,2026-02-04T06:51:47.985159,,Property in Greenock,Martin McCluskey,property
+7752,1d668fff58b79b370be27faf86b4d9d5,new,2026-02-04T06:51:47.985159,,Secretary and Member of Executive Committee of Tribune Group of Labour MPs. This is an unpaid role.,Yuan Yang,miscellaneous
+7753,a5174ddd456eff800bab6e525085fd6f,new,2026-02-04T06:51:47.985159,,Vice-Treasurer and Member of Executive Committee of Tribune Group of Labour MPs. This is an unpaid role.,Vicky Foxcroft,miscellaneous
+7754,c0e227bb97cefb5c4938cd15bf53512a,new,2026-02-04T06:51:47.985159,,"Director of ""The Office of Angela Rayner Limited"". This is an unpaid role.",Angela Rayner,miscellaneous
+7755,4ebe7c5296dd19ad67b56b39152d07e6,new,2026-02-04T06:51:47.985159,,Election as officer of the Labour Rural Research Group with specific interest in outdoor recreation and access to nature.,Andy MacNae,miscellaneous
+7756,2a94d776eb6bf89fc7d705e0c256fb28,new,2026-02-04T06:51:47.985159,,Member of Friends of Wamphray Church Steering Group,David Mundell,miscellaneous
+7757,4c71f47a31cab2d6aceeb553a6e6e6e1,new,2026-02-04T06:51:47.985159,,Elected member of the Executive of the British Group of the Inter Parliamentary Union (BGIPU). This is an unpaid role.,Leigh Ingham,miscellaneous
+7758,e00aaed28390f0795b89153eafe91618,new,2026-02-04T06:51:47.985159,,Treasurer - Labour Rural Research Group. This is an unpaid role.,Maya Ellis,miscellaneous
+7759,b36da5d5cfdba4f70c3dd44606763e34,new,2026-02-04T06:51:47.985159,,"I was elected as an Officer of the Labour Rural Research Group (LRRG), a formally constituted group within the Labour Party focused on rural policy development and advocacy. This is an unpaid role. As an Officer, I am involved in the direction of the group and contribute to its work and engagements.",Chris Hinchliff,miscellaneous
+7760,c57045c31cb87195e33e49ace45a3535,new,2026-02-04T06:51:47.985159,,BGIPU (British Group Inter-Parliamentary Union) Executive Committee. This is an unpaid role.,Wera Hobhouse,miscellaneous
+7761,1a8288c0a42af8a9b5c8050022033daa,new,2026-02-04T06:51:47.985159,,"I was elected as Secretary of the Labour Rural Research Group (LRRG), a formally constituted group within the Labour Party focused on rural policy development and advocacy. This is an unpaid role. I work with the Exec to provide strategic direction and organisation for the group.",David Smith,miscellaneous
+7762,7fc2892f5da931c5438c9cf0b64d12b3,new,2026-02-04T06:51:47.985159,,"I was elected as an Officer of the Labour Rural Research Group (LRRG), a formally constituted group within the Labour Party, focused on rural policy development and advocacy. This is an unpaid role.",Terry Jermy,miscellaneous
+7763,34f340fe7ba0a5ae3bb6ba99b4f3aa80,new,2026-02-04T06:51:47.985159,,Unpaid directorship of Marlborough Street Ventures Ltd,Gareth Davies,miscellaneous
+7764,b78b34e8632a6bdcbc52c14c00312111,new,2026-02-04T06:51:47.985159,,"Director, Industry and Parliament Trust. This is an unpaid role.",Wera Hobhouse,miscellaneous
+7765,2afabae6bc86bbec3ce4715c2f68a75f,new,2026-02-04T06:51:47.985159,,"In my role as the Metro Mayor of the West of England I am a chair/member of the following committees and boards:
+West of England Mayoral Combined Authority Committee; Temple Quarter Strategic Board; West of England LEP Board; Regional Capital Board; West of England Mayoral Combined Authority Joint Skills and Business Boards, Joint Transport, Housing & Planning Boards, and the Climate & Nature Action Panel.",Dan Norris,miscellaneous
+7766,329937c18c56fef65f3d8ff6b8165616,new,2026-02-04T06:51:47.985159,,"Payment received on 14 January 2026 - £7,500.00",Sir Geoffrey Cox,overall
+7767,a0c66455c460c5bbf33272b6c00b1ab0,new,2026-02-04T06:51:47.985159,,Writing articles - Guardian news and media,Ms Stella Creasy,overall
+7768,a6c4c1933f31e53967f9fdcd4ae898db,new,2026-02-04T06:51:47.985159,,Payment received on 27 November 2025 - £150.00,Ms Stella Creasy,overall
+7769,e31918fe2a6bb13d151fde79f9fc8870,new,2026-02-04T06:51:47.985159,,Payment received on 06 March 2025 - £296.68,Ms Stella Creasy,overall
+7770,d314abcdcf8edbd375addf85e26d6642,new,2026-02-04T06:51:47.985159,,Payment received on 29 January 2026 - £347.00,Ms Stella Creasy,overall
+7771,95f2e0fff7ab57495a0e13605dc04451,new,2026-02-04T06:51:47.985159,,"Payment received on 07 January 2026 - £1,131.00",Tony Vaughan,overall
+7772,44bc2387aac7e6027a6e410820ea0eb1,new,2026-02-04T06:51:47.985159,,"Payment received on 28 January 2026 - £1,573.00",Ayoub Khan,overall
+7773,f4a6123019463e94d06acb59140ff629,new,2026-02-04T06:51:47.985159,,"In my role as the Metro Mayor of the West of England I am a chair/member of the following committees and boards:
+West of England Mayoral Combined Authority Committee; Temple Quarter Strategic Board; West of England LEP Board; Regional Capital Board; West of England Mayoral Combined Authority Joint Skills and Business Boards, Joint Transport, Housing & Planning Boards, and the Climate & Nature Action Panel.",Dan Norris,overall
+7774,13d9bca860b257ffb4dd5794f2d837c0,new,2026-02-04T06:51:47.985159,,Payment received on 21 January 2026 - £504.14,Nigel Farage,overall
+7775,8d90b998510ac914ec08a623bc0c3ffb,new,2026-02-04T06:51:47.985159,,Payment received on 07 January 2026 - £794.78,Nigel Farage,overall
+7776,8afad7b567ab1a556d874b8311a60dcd,new,2026-02-04T06:51:47.985159,,"Director, Industry and Parliament Trust. This is an unpaid role.",Wera Hobhouse,overall
+7777,0ae1099c05ab477741b45625025453ad,new,2026-02-04T06:51:47.985159,,Payment received on 21 January 2026 - £137.92,Lee Anderson,overall
+7778,62b17cde91b3d70ce18061dd9949a9a1,new,2026-02-04T06:51:47.985159,,"Payment received on 12 January 2026 - £10,000.00",Sir Oliver Dowden,overall
+7779,0e4b337ff5235d24e1a495b9d17f9c04,new,2026-02-04T06:51:47.985159,,"Payment received on 23 January 2026 - £1,273.85",David Pinto-Duschinsky,overall
+7780,d574363a2a6a29fa75e1f1667d52bfa2,new,2026-02-04T06:51:47.985159,,"Payment received on 16 January 2026 - £27,400.66",Rishi Sunak,overall
+7781,2279b90b5d257f225333c51ef2a3ea53,new,2026-02-04T06:51:47.985159,,Payment received on 16 January 2026 - £650.00,Barry Gardiner,overall
+7782,6e9c131884890681dbf31e1e55536754,new,2026-02-04T06:51:47.985159,,"Payment received on 29 January 2026 - £4,000.00",Steve Barclay,overall
+7783,b56811472b21cf1df56ab6b3518c63f6,new,2026-02-04T06:51:47.985159,,Payment expected for services on 08 December 2025 - £100.00,Clive Lewis,overall
+7784,102a0fb202beb2bc9ac4ee6e7c879f35,new,2026-02-04T06:51:47.985159,,Payment expected for services on 10 December 2025 - £100.00,Clive Lewis,overall
+7785,2b660382edb5fc684340770f36d46775,new,2026-02-04T06:51:47.985159,,"Payment received on 22 January 2026 - £1,000.00",Barry Gardiner,overall
+7786,91f404aa97d6a3634ff09ac38ad76de7,new,2026-02-04T06:51:47.985159,,Payment received on 31 December 2025 - £430.56,Chris Coghlan,overall
+7787,dc0da915b50be5549720c60673b30dc2,new,2026-02-04T06:51:47.985159,,"Agreement starting 21 October 2025 - £28,500.00",Rishi Sunak,overall
+7788,a91c9e7a5765a06f09459f9fd3144512,new,2026-02-04T06:51:47.985159,,"GMB Southern Region - £7,200.00",Helena Dollimore,overall
+7789,4b288e0eacf7d8ee76a5277a6624f1e1,new,2026-02-04T06:51:47.985159,,"Payment received on 14 January 2026 - £11,050.00",Sir Geoffrey Cox,overall
+7790,968b6e94e36dce856ac0b2a20e32251a,new,2026-02-04T06:51:47.985159,,"Refrigeration House Limited - £50,000.00",Angela Rayner,overall
+7791,3ca5f9823a3ecd734b82c07c663b9c41,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Dr Danny Chambers,overall
+7792,629d3c3cd4c55db09f5cd0c0af2da326,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Luke Taylor,overall
+7793,3c89bbd86863b028165f16391cb01f52,new,2026-02-04T06:51:47.985159,,International visit to Israel between 04 January 2026 and 09 January 2026,Anna Firth,overall
+7794,24cd376d393f947ddfa9a8c55d97ad43,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Bobby Dean,overall
+7795,b5358f5d891fdb6ec593ffe67d89febe,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Charlotte Cane,overall
+7796,aa072abdd77338218db0feb98d0eb597,new,2026-02-04T06:51:47.985159,,"The Football Association Premier League Ltd - £1,300.00",Munira Wilson,overall
+7797,8b6e3a236388c3dcf6f93c872ef4b412,new,2026-02-04T06:51:47.985159,,"Edward Garton Woods - £5,000.00",Helen Whately,overall
+7798,e9bae4460d44e3b218f02935f9150af0,new,2026-02-04T06:51:47.985159,,International visit to Australia between 26 December 2025 and 06 January 2026,James Wild,overall
+7799,bcafca033a08f2ac4b6e4b6aafa93d46,new,2026-02-04T06:51:47.985159,,International visit to Qatar between 05 December 2025 and 08 December 2025,Kit Malthouse,overall
+7800,58ac8c0b8535955cb40fdaaf26be31cb,new,2026-02-04T06:51:47.985159,,"The British Society for Antimicrobial Chemotherapy - £2,222.22",Dr Danny Chambers,overall
+7801,22e23634d2b27faa61c9b82fcc29309d,new,2026-02-04T06:51:47.985159,,"Playscan Limited - £50,000.00",Lucy Powell,overall
+7802,89f6a1c74c7a775ad27a78730dce40ae,new,2026-02-04T06:51:47.985159,,"Neil Hudgell Limited - £3,000.00",Karl Turner,overall
+7803,6876989446f70ebfb25cbdd269e0b470,new,2026-02-04T06:51:47.985159,,"Paddy Power part of Flutter Entertainment plc - £1,000.00",Amanda Martin,overall
+7804,80554754b5af46f73ee3849ce776aa09,new,2026-02-04T06:51:47.985159,,"UNISON - £2,000.00",Mark Ferguson,overall
+7805,b809e89b277adbb9d5b7ba1466316d06,new,2026-02-04T06:51:47.985159,,"Michael Watson - £1,600.00",David Chadwick,overall
+7806,b892be87c423375fdec9596bf359f0dc,new,2026-02-04T06:51:47.985159,,"The National Liberal Club - £1,140.00",Alison Bennett,overall
+7807,28bedb7d0922686fc5d74be08a588ab4,new,2026-02-04T06:51:47.985159,,"Ian Howard - £5,000.00",Alison Bennett,overall
+7808,55566938facd24bee60838ff3b19340d,new,2026-02-04T06:51:47.985159,,"Bansols Beta Ltd - £10,000.00",Dr Ben Spencer,overall
+7809,f1d14af245aa4bbfeb0f4e0145f937f7,new,2026-02-04T06:51:47.985159,,Unpaid directorship of Marlborough Street Ventures Ltd,Gareth Davies,overall
+7810,57113e0094bdcc12e2cbceeaa69b7b38,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Daisy Cooper,overall
+7811,6d0bbb17e8d5847e37a8d04e9588b623,new,2026-02-04T06:51:47.985159,,"International Centre of Justice for Palestinians - £40,000.00",Ayoub Khan,overall
+7812,6e76f4ff0647855a5bf4025df9a6b739,new,2026-02-04T06:51:47.985159,,"Brecon & Radnorshire Lib Dem 49 Club - £4,100.00",David Chadwick,overall
+7813,c5d3a5de936ccfcf1c42cbc92141e25e,new,2026-02-04T06:51:47.985159,,"Sophie Smith - £4,000.00",Laura Trott,overall
+7814,e6b18708bca23ecf89541a886115b312,new,2026-02-04T06:51:47.985159,,"University and College Union - £25,187.00",Rachael Maskell,overall
+7815,be14dd14b4b7728f3107ab6cb32d999c,new,2026-02-04T06:51:47.985159,,International visit to Switzerland between 21 January 2026 and 22 January 2026,Nigel Farage,overall
+7816,ea339b870dc412ef207eba48963e6d67,new,2026-02-04T06:51:47.985159,,"Homes for Britain Ltd - £2,155.00",Mike Reader,overall
+7817,4e839327fa3323a5f14902ab7109a4bf,new,2026-02-04T06:51:47.985159,,"I was elected as Secretary of the Labour Rural Research Group (LRRG), a formally constituted group within the Labour Party focused on rural policy development and advocacy. This is an unpaid role. I work with the Exec to provide strategic direction and organisation for the group.",David Smith,overall
+7818,54fda7ca9d9ab29bf7503bb91cb8c4d8,new,2026-02-04T06:51:47.985159,,BGIPU (British Group Inter-Parliamentary Union) Executive Committee. This is an unpaid role.,Wera Hobhouse,overall
+7819,cbcec535d573c5d335c2e8f201ad6fb0,new,2026-02-04T06:51:47.985159,,"UNISON - £2,000.00",Liz Twist,overall
+7820,7f763bf9381f57bc6147496346fd7278,new,2026-02-04T06:51:47.985159,,International visit to Israel between 04 January 2026 and 09 January 2026,Paul Holmes,overall
+7821,e56059ebec5d7d5b134ff6b1b5974a98,new,2026-02-04T06:51:47.985159,,Barking and Dagenham College - £750.00,Margaret Mullane,overall
+7822,e18cc378220eb48e80563037c24a1869,new,2026-02-04T06:51:47.985159,,"James Stewart - £6,000.00",David Mundell,overall
+7823,2e94154d3a633daf5d08aeb75bcec83f,new,2026-02-04T06:51:47.985159,,"I was elected as an Officer of the Labour Rural Research Group (LRRG), a formally constituted group within the Labour Party, focused on rural policy development and advocacy. This is an unpaid role.",Terry Jermy,overall
+7824,e09a343bb770f8e4632276b6b51628c2,new,2026-02-04T06:51:47.985159,,"Motorsport UK - £1,200.00",Nigel Huddleston,overall
+7825,3dbf8038931c2016af550bd627cd19ec,new,2026-02-04T06:51:47.985159,,Treasurer - Labour Rural Research Group. This is an unpaid role.,Maya Ellis,overall
+7826,4eb8d53d37db58185330ee98e3758cb4,new,2026-02-04T06:51:47.985159,,"I was elected as an Officer of the Labour Rural Research Group (LRRG), a formally constituted group within the Labour Party focused on rural policy development and advocacy. This is an unpaid role. As an Officer, I am involved in the direction of the group and contribute to its work and engagements.",Chris Hinchliff,overall
+7827,f88f78335c1fb676af4c66288461a8fc,new,2026-02-04T06:51:47.985159,,"James Mellon - £10,000.00",Mrs Kemi Badenoch,overall
+7828,2ce15accbadab7214b3eed19d0e44310,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Lisa Smart,overall
+7829,2fca14c903399aeb6f53f79a2d9e8c07,new,2026-02-04T06:51:47.985159,,International visit to India between 02 January 2026 and 06 January 2026,Bob Blackman,overall
+7830,2f5fd9970a8fdb3f9727f5961bea9ed6,new,2026-02-04T06:51:47.985159,,Appearances on GB News - GB News Ltd,Sir Iain Duncan Smith,overall
+7831,20108c626b39ed7b6a061acc522a0059,new,2026-02-04T06:51:47.985159,,Payment received on 15 January 2026 - £320.00,Sir Iain Duncan Smith,overall
+7832,c0f76be47ea183b606e87736ac1cff49,new,2026-02-04T06:51:47.985159,,"Estates UK - £1,510.41",Martin Vickers,overall
+7833,d113b0636b3d7d02cd48e6f9af0dedfc,new,2026-02-04T06:51:47.985159,,"Motorsport UK - £1,200.00",Greg Smith,overall
+7834,9d370b3726f91c9da26abf8025d16290,new,2026-02-04T06:51:47.985159,,International visit to Israel between 04 January 2026 and 09 January 2026,Greg Smith,overall
+7835,bfd673a68125beb9df0af537f748c221,new,2026-02-04T06:51:47.985159,,Barbara Daniel - £350.00,Emily Darlington,overall
+7836,adb6d052466e0f48c9f621a0c1f930ea,new,2026-02-04T06:51:47.985159,,Election as officer of the Labour Rural Research Group with specific interest in outdoor recreation and access to nature.,Andy MacNae,overall
+7837,33ef49fa75576bdf3e20c481e8c95dc1,new,2026-02-04T06:51:47.985159,,"Orla Dunn - £5,000.00",Munira Wilson,overall
+7838,5352cf2aa76938536e83114eaf48b050,new,2026-02-04T06:51:47.985159,,"Key Cities (Network) - £1,667.00",Rebecca Long Bailey,overall
+7839,e5e030015871292495574f022fe850d4,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,140.00",Ian Sollom,overall
+7840,de8e0ddacd7c9e23a54781a27f538640,new,2026-02-04T06:51:47.985159,,"International Centre of Justice for Palestinians (ICJP) - £40,000.00",Iqbal Mohamed,overall
+7841,e4335027c63fc13dd4fa09dacf33c56d,new,2026-02-04T06:51:47.985159,,Elected member of the Executive of the British Group of the Inter Parliamentary Union (BGIPU). This is an unpaid role.,Leigh Ingham,overall
+7842,2895018494274d87c55177dad90b8995,new,2026-02-04T06:51:47.985159,,"Director of ""The Office of Angela Rayner Limited"". This is an unpaid role.",Angela Rayner,overall
+7843,9828f39f05c37eea9fd176822e9845b0,new,2026-02-04T06:51:47.985159,,Member of Friends of Wamphray Church Steering Group,David Mundell,overall
+7844,d181deacd4dfbb87ddd2f524fd3341f7,new,2026-02-04T06:51:47.985159,,"Social Workers Union (SWU) and British Association of Social Workers (BASW) - £4,868.12",Ian Byrne,overall
+7845,147ebb5ddef12a08605c5332522538af,new,2026-02-04T06:51:47.985159,,Wyre Holdings Ltd - £900.00,Stephen Flynn,overall
+7846,3cbe73ffee31d7ebb693c3bfe79b7166,new,2026-02-04T06:51:47.985159,,"National Liberal Club - £1,348.00",Monica Harding,overall
+7847,7d57a1f43069e30bfaef246dd2b59827,new,2026-02-04T06:51:47.985159,,Secretary and Member of Executive Committee of Tribune Group of Labour MPs. This is an unpaid role.,Yuan Yang,overall
+7848,4328e631a673fa814726ab0cd6a3e652,new,2026-02-04T06:51:47.985159,,Vice-Treasurer and Member of Executive Committee of Tribune Group of Labour MPs. This is an unpaid role.,Vicky Foxcroft,overall
+7849,b11b2353da84a9737af5f31c2dd0ca33,new,2026-02-04T06:51:47.985159,,"Iain Gorman - £5,000.00",Lee Anderson,overall
+7850,f0b0e70fee263f439503a0e74dad1291,new,2026-02-04T06:51:47.985159,,Writing articles - Associated Newspapers Ltd (ANMFS Ltd),Dan Carden,overall
+7851,7cb878d40998332a991167a4bf42ef11,new,2026-02-04T06:51:47.985159,,Payment received on 29 January 2026 - £850.00,Dan Carden,overall
+7852,6ae23273a827ff5c66b456ad911a1522,new,2026-02-04T06:51:47.985159,,International visit to France between 15 January 2026 and 17 January 2026,Jesse Norman,overall
+7853,d854d7ae3dd97e099a395e48c847c6de,new,2026-02-04T06:51:47.985159,,Property in Greenock,Martin McCluskey,overall
+7854,d06a84d2669cd575c3ca428a8aa6b35f,new,2026-02-04T06:51:47.985159,,Motorsport UK Association Ltd - £600.00,Sarah Bool,overall
 7547,63f0e6850b48991ca0a404fe2cb5583e,new,2026-01-21T06:36:25.376214,,"Payment received on 02 January 2026 - £35,000.00",Sir Oliver Dowden,ad_hoc_payments
 7548,775c34396104e58c0e5035bd1e7fdf96,new,2026-01-21T06:36:25.376214,,Payment received on 15 January 2026 - £760.00,Dame Harriett Baldwin,ad_hoc_payments
 7549,cceb48a41c9d93629e43ab23240449fb,new,2026-01-21T06:36:25.376214,,"Payment received on 17 December 2025 - £1,049.41",Sir Julian Smith,ad_hoc_payments
@@ -350,178 +527,3 @@ This is an honorary, unpaid position with no decision-making role in the organis
 7524,74cf53452c0fa4f8a64f0cf94aa3cdb1,new,2026-01-07T04:12:57.287924,,Richard McBrien - £366.00,Charlie Maynard,overall
 7525,969df445aa7c7e072bd17aade1722af8,new,2026-01-07T04:12:57.287924,,"Matthew Rice - £2,925.00",Charlie Maynard,overall
 7526,a7b7bc4a0feb15b6a70e87a75fc4fa22,new,2026-01-07T04:12:57.287924,,"Dominic J Brisby - £2,000.00",Jack Rankin,overall
-7527,999477e891bf15b085ee6f631b2db79c,new,2026-01-07T04:12:57.287924,,Middle East Association - £360.00,Priti Patel,overall
-7528,945440bd4289ab057fba615b586b6f70,new,2026-01-07T04:12:57.287924,,Embassy of Bahrain - £95.00,Priti Patel,overall
-7529,59fcdcffd74a6c4d6b96db9ba6805056,new,2026-01-07T04:12:57.287924,,International visit to United Arab Emirates between 06 December 2025 and 11 December 2025,Sir Oliver Dowden,overall
-7530,fa7db4edfd88e25c73e6f19ea0e908f2,new,2026-01-07T04:12:57.287924,,"Alasdair Breach - £12,500.00",Charlie Maynard,overall
-7531,b2567aa5bca82299c7a3dddbfb2a8004,new,2026-01-07T04:12:57.287924,,Your Party - £324.80,Shockat Adam,overall
-7532,c6da258d1dd06863daa41e7ba65edb2b,new,2026-01-07T04:12:57.287924,,International visit to Qatar between 05 December 2025 and 08 December 2025,Shockat Adam,overall
-7533,878a3ed2b26bdaa4637a4da8e06b954d,new,2026-01-07T04:12:57.287924,,International visit to Qatar between 04 December 2025 and 09 December 2025,Dan Carden,overall
-7534,31ebe6e5edf316cee92d464575ac55ad,new,2026-01-07T04:12:57.287924,,Member of the Pride in Place Neighbourhood Board. This is an unpaid role.,Shaun Davies,overall
-7535,fbb4dfe06a45e1024ab6acf973cccc60,new,2026-01-07T04:12:57.287924,,International visit to Qatar between 05 December 2025 and 08 December 2025,Marsha De Cordova,overall
-7536,6cfd5b82f4aeabc72fd18f3c8dea373c,new,2026-01-07T04:12:57.287924,,"Legal services - Defence and Home Affairs Division, Prime Minister's Office, Republic of Mauritius",Sir Geoffrey Cox,overall
-7537,439382fabd6609e59a3fe81f60b80cce,new,2026-01-07T04:12:57.287924,,"Payment received on 14 December 2025 - £11,050.00",Sir Geoffrey Cox,overall
-7538,1f92c7c503cc6887c36a016d1983a16e,new,2026-01-07T04:12:57.287924,,"Mundev Wouhra - £10,000.00",Kanishka Narayan,overall
-7539,6f50dd83da34404926f932330eecbf48,new,2026-01-07T04:12:57.287924,,"The Refugee, Asylum and Migration Policy Project (RAMP) - £3,250.00",David Simmonds,overall
-7540,37c87047c50d5e390696d8852da0f7c6,new,2026-01-07T04:12:57.287924,,"Unison - £2,000.00",Keir Mather,overall
-7541,2304fb97b9bd710b37b9b0185af15b97,new,2026-01-07T04:12:57.287924,,"Richard Oldfield - £7,500.00",Helen Whately,overall
-7542,ab24c7733bca68fd8d731a73d2139e84,new,2026-01-07T04:12:57.287924,,"The Refugee, Asylum and Migration Policy Project (RAMP) - £3,250.00",Olivia Blake,overall
-7543,a78078e032510fe673065f1f5e7f4850,new,2026-01-07T04:12:57.287924,,"National Liberal Club - £1,140.00",Helen Maguire,overall
-7544,319679638932b6538b1addb1a98625d5,new,2026-01-07T04:12:57.287924,,"National Liberal Club - £1,140.00",Freddie van Mierlo,overall
-7545,edfde73e4e699d672b6683453fee0d45,new,2026-01-07T04:12:57.287924,,International visit to United States between 11 December 2025 and 17 December 2025,Tonia Antoniazzi,overall
-7546,4b8ecafe0954e8ed8edfd34f37733245,new,2026-01-07T04:12:57.287924,,"National Liberal Club - £1,140.00",Claire Young,overall
-1,970bc420dc135daac9dc1589ea879165,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 14 December 2025 - £3,000.00",Chris McDonald,ad_hoc_payments
-2,39bd23fc6e47a5cf9169766f4420f533,new,2026-01-05T13:49:01.596133,,Payment received on 08 December 2025 - £385.51,Sir Julian Smith,ad_hoc_payments
-3,7309b6c012508fded12140e09acffedb,new,2026-01-05T13:49:01.596133,,Payment received on 05 December 2025 - £300.00,Paulette Hamilton,ad_hoc_payments
-4,aca71d91a06fd8a97cb3cd593742cac4,new,2026-01-05T13:49:01.596133,,Payment received on 13 November 2025 - £143.65,Lee Anderson,ad_hoc_payments
-5,74755f8978004d061ceac95d45834818,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 10 December 2025 - £37,246.80",Nigel Farage,ad_hoc_payments
-6,8bed684f74d97773285f1518b9db1bd5,new,2026-01-05T13:49:01.596133,,"Payment received on 08 December 2025 - £1,800.00",Carla Denyer,ad_hoc_payments
-7,2f3212829bab8e4d30d4308d0d109bb6,new,2026-01-05T13:49:01.596133,,Payment received on 09 December 2025 - £250.00,Sir Iain Duncan Smith,ad_hoc_payments
-8,45da2090354e91ca61cd83d08ceb69e8,new,2026-01-05T13:49:01.596133,,"Payment received on 05 December 2025 - £6,800.00",Sir James Cleverly,ad_hoc_payments
-9,9efb836e2b0f44edda8946f53572060c,new,2026-01-05T13:49:01.596133,,"Payment received on 09 December 2025 - £3,000.00",Suella Braverman,ad_hoc_payments
-10,b055dab24d4c5d5b3310fb1a4b98b2b4,new,2026-01-05T13:49:01.596133,,Payment received on 25 November 2025 - £750.00,Suella Braverman,ad_hoc_payments
-11,516e42e4976e541649efa7da60bcfebf,new,2026-01-05T13:49:01.596133,,Payment expected for services on 08 December 2025 - £300.00,Clive Lewis,ad_hoc_payments
-12,5118097f3bcb83868a5886fc1df0fc17,new,2026-01-05T13:49:01.596133,,Payment expected for services on 10 December 2025 - £150.00,Clive Lewis,ad_hoc_payments
-13,6ae4f1f7401010e161091bdb570ea6f1,new,2026-01-05T13:49:01.596133,,"Payment received on 25 July 2024 - £1,530.67",Llinos Medi,ad_hoc_payments
-14,fca3d976e66f272a429e3e8d7c53389b,new,2026-01-05T13:49:01.596133,,Payment received on 05 December 2025 - £300.00,Carolyn Harris,ad_hoc_payments
-15,23983d202ee5ab5f0287e21b48c65434,new,2026-01-05T13:49:01.596133,,"Payment received on 10 January 2025 - £2,562.50",Sarah Sackman,ad_hoc_payments
-16,5a0e61d959a9cea9071d8a519b6787e2,new,2026-01-05T13:49:01.596133,,"Payment received on 02 December 2025 - £2,386.45",Mike Martin,ad_hoc_payments
-17,e8ce5a32e6f1eb9f775ba15683895ab8,new,2026-01-05T13:49:01.596133,,"Payment received on 17 November 2025 - £15,000.00",Sir Oliver Dowden,ad_hoc_payments
-18,db6211cd80b05134d94c9b5bb3af6b5a,new,2026-01-05T13:49:01.596133,,Payment received on 25 November 2025 - £418.78,Sarah Gibson,ad_hoc_payments
-19,67b819e0441ebd7e9357ae9857cc7915,new,2026-01-05T13:49:01.596133,,"Payment received on 10 November 2025 - £2,500.00",Dawn Butler,ad_hoc_payments
-20,3f5932ac6ecfe4ec43194f0fb41a5601,new,2026-01-05T13:49:01.596133,,Payment received on 13 November 2025 - £132.66,Lee Anderson,ad_hoc_payments
-21,ed49e5beb70f979bc994321ab5792a76,new,2026-01-05T13:49:01.596133,,"Payment received on 26 November 2025 - £128,536.66",Rishi Sunak,ad_hoc_payments
-22,d5e737c656b748269c6fd85f1568ea31,new,2026-01-05T13:49:01.596133,,Payment received on 26 November 2025 - £113.05,Lee Anderson,ad_hoc_payments
-23,83c7fab9815a7b2d5fbd5044ba1272be,new,2026-01-05T13:49:01.596133,,"Payment received on 24 November 2025 - £13,984.52",Rishi Sunak,ad_hoc_payments
-24,07ec4f3d52e1fea899a1e91ff33d50ff,new,2026-01-05T13:49:01.596133,,Payment received on 28 November 2025 - £530.82,Chris Coghlan,ad_hoc_payments
-25,5b530b412b9f0f58940338a0c85adbb6,new,2026-01-05T13:49:01.596133,,"Payment received on 28 November 2025 - £45,480.00",Nigel Farage,ad_hoc_payments
-26,6d88020722a03f89a9ea748a51f361c8,new,2026-01-05T13:49:01.596133,,"Payment received on 20 November 2025 - £3,000.00",Barry Gardiner,ad_hoc_payments
-27,3f0a92171e264edcf33095eacd9c2d05,new,2026-01-05T13:49:01.596133,,"Payment received on 06 November 2025 - £6,000.00",Laura Trott,ad_hoc_payments
-28,35e0989f5740d16af9fb4845f49f26c9,new,2026-01-05T13:49:01.596133,,"Payment received on 27 November 2025 - £1,000.00",Barry Gardiner,ad_hoc_payments
-29,b0a25c646323e76ad58c344c780d8297,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 26 November 2025 - £1,000.00",Sir Jeremy Wright,ad_hoc_payments
-30,b838a2a4f4ff0f648c7051eebea5e2b1,new,2026-01-05T13:49:01.596133,,"Payment received on 14 November 2025 - £1,250.00",Barry Gardiner,ad_hoc_payments
-31,765c8affbe8e0befd4409bb58f061704,new,2026-01-05T13:49:01.596133,,Payment received on 25 November 2025 - £529.27,Nick Thomas-Symonds,ad_hoc_payments
-32,626cda71d1fc28e9f8fa2077c0f7804e,new,2026-01-05T13:49:01.596133,,"Payment received on 17 November 2025 - £10,000.00",Sir Oliver Dowden,ad_hoc_payments
-33,f4b2d2bf4212789390eee37ccfcb0cf0,new,2026-01-05T13:49:01.596133,,"Payment received on 27 November 2025 - £4,000.00",Steve Barclay,ad_hoc_payments
-34,a3b8fb0eba3245f0c5e3837c96fcab2b,new,2026-01-05T13:49:01.596133,,"Payment received on 28 November 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-35,c9c0672e0ff09a127451a05c94be9dbd,new,2026-01-05T13:49:01.596133,,"Payment received on 19 November 2025 - £10,000.00",Sir Jeremy Hunt,ad_hoc_payments
-36,cd6dfe52bd1ebb0297764211f25d9c44,new,2026-01-05T13:49:01.596133,,"Payment received on 20 November 2025 - £16,000.00",Sir Jeremy Hunt,ad_hoc_payments
-37,2989d2b50c9298cba0d2ed9751f52237,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 13 November 2025 - £24,000.00",Sir Jeremy Hunt,ad_hoc_payments
-38,3473a1d595bb18bb1b61682b8158fe84,new,2026-01-05T13:49:01.596133,,"Payment received on 19 November 2025 - £12,000.00",Sir Jeremy Hunt,ad_hoc_payments
-39,0f5ec30b2d848fa61f5d129c7fa4eccb,new,2026-01-05T13:49:01.596133,,Payment received on 31 October 2025 - £403.04,Chris Coghlan,ad_hoc_payments
-40,4f3c519d1cb9e553da3b697fe55bc41a,new,2026-01-05T13:49:01.596133,,Payment received on 24 November 2025 - £500.00,Tom Tugendhat,ad_hoc_payments
-41,e2dc3b11671d724135da9218469677f1,new,2026-01-05T13:49:01.596133,,"Payment received on 04 November 2025 - £2,166.66",Esther McVey,ad_hoc_payments
-42,6db26cf8924e877d49e9e87b896118e3,new,2026-01-05T13:49:01.596133,,Payment received on 07 November 2025 - £450.00,Paulette Hamilton,ad_hoc_payments
-43,7a21e4ba2313e86ca0e8bbd4d4e660b3,new,2026-01-05T13:49:01.596133,,"Payment received on 14 November 2025 - £33,153.60",Nigel Farage,ad_hoc_payments
-44,8fd511e6ed82e4194a4b13832543cf11,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 13 November 2025 - £31,145.62",Nigel Farage,ad_hoc_payments
-45,dede2598b3f23dd5eb36471b8edc1aaf,new,2026-01-05T13:49:01.596133,,Payment received on 13 November 2025 - £132.56,Lee Anderson,ad_hoc_payments
-46,bbf7b3d5fbf3dc54999124bad4538e60,new,2026-01-05T13:49:01.596133,,"Payment received on 04 November 2025 - £9,378.39",Tony Vaughan,ad_hoc_payments
-47,c8b548dcb448b82b417a857c2c86ae0e,new,2026-01-05T13:49:01.596133,,Payment received on 29 October 2025 - £145.11,Lee Anderson,ad_hoc_payments
-48,2472645fbf801d1c14c8fa59c653ed1a,new,2026-01-05T13:49:01.596133,,"Payment received on 04 November 2025 - £8,225.00",Naz Shah,ad_hoc_payments
-49,60e4304ef674828a63ed3279560db125,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 12 November 2025 - £16,000.00",Sir Jeremy Hunt,ad_hoc_payments
-50,c4d678657d52b58bf1cd021b88a5b44a,new,2026-01-05T13:49:01.596133,,"Payment received on 25 December 2024 - £1,492.78",Sarah Gibson,ad_hoc_payments
-51,4effdc01c9922f7d9b37b611a30f055c,new,2026-01-05T13:49:01.596133,,"Payment received on 25 January 2025 - £1,375.00",Sarah Gibson,ad_hoc_payments
-52,7aaf34ab117bb4d584e8921eef6f26cf,new,2026-01-05T13:49:01.596133,,"Payment received on 13 November 2025 - £1,671.05",Rupert Lowe,ad_hoc_payments
-53,7f166e9128330a3cbe1db93044ec5412,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 13 October 2025 - £30,000.00",Nigel Farage,ad_hoc_payments
-54,1d2fe247025902452b5816899053fa48,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 22 October 2025 - £20,000.00",Nigel Farage,ad_hoc_payments
-55,d6dc0bed4b0e484aebf6a6c3378bfc64,new,2026-01-05T13:49:01.596133,,Payment received on 11 November 2025 - £750.00,Sir Iain Duncan Smith,ad_hoc_payments
-56,a3d92bef0d9e55cabf21f1c6d0c614ba,new,2026-01-05T13:49:01.596133,,"Payment received on 31 October 2025 - £135,000.00",Nigel Farage,ad_hoc_payments
-57,0c3da89e396dcbe671235114060aa40a,new,2026-01-05T13:49:01.596133,,"Payment received on 05 November 2025 - £1,127.38",Sir Julian Smith,ad_hoc_payments
-58,7ca2d2f68c89a1943ec6db100be29830,new,2026-01-05T13:49:01.596133,,"Payment received on 15 October 2025 - £10,000.00",Sir Geoffrey Cox,ad_hoc_payments
-59,2f222612bd15bdf03dec40fc0ace71e5,new,2026-01-05T13:49:01.596133,,"Payment received on 29 October 2025 - £1,000.00",Barry Gardiner,ad_hoc_payments
-60,c81baffb5b42bebdd35e44de3aa960a4,new,2026-01-05T13:49:01.596133,,Payment received on 07 November 2025 - £300.00,Carolyn Harris,ad_hoc_payments
-61,b02f173942dbe1ef8f7daf1f6abe49c9,new,2026-01-05T13:49:01.596133,,"Payment received on 15 October 2025 - £11,050.00",Sir Geoffrey Cox,ad_hoc_payments
-62,0270ec17186a648bf808e234415a0eba,new,2026-01-05T13:49:01.596133,,"Payment received on 07 November 2025 - £41,791.42",Rishi Sunak,ad_hoc_payments
-63,761bfe99ee51be5af34b70c256b11fee,new,2026-01-05T13:49:01.596133,,"Payment received on 17 October 2025 - £2,000.00",Chris Evans,ad_hoc_payments
-64,a18725e153e75f93e680d71aaae1899b,new,2026-01-05T13:49:01.596133,,Payment received on 06 November 2025 - £220.00,Chris Bryant,ad_hoc_payments
-65,b615f6dcfede1c37c0234ab297b9ab7a,new,2026-01-05T13:49:01.596133,,Payment received on 08 October 2025 - £60.34,Nigel Farage,ad_hoc_payments
-66,6549aa10be8cf8366a5069ee2d39c326,new,2026-01-05T13:49:01.596133,,Payment received on 04 November 2025 - £240.00,Esther McVey,ad_hoc_payments
-67,7cfe93af28f4b18ded44e7e832e35f7d,new,2026-01-05T13:49:01.596133,,Payment received on 23 October 2025 - £152.66,Nigel Farage,ad_hoc_payments
-68,faf3441214fffc9b94a6748315edb211,new,2026-01-05T13:49:01.596133,,"Payment received on 30 October 2025 - £8,964.27",Nigel Farage,ad_hoc_payments
-69,8d43d58747dfec9fb81df75ea8eb0ca2,new,2026-01-05T13:49:01.596133,,"Payment received on 27 October 2025 - £24,000.00",Sir Jeremy Hunt,ad_hoc_payments
-70,7c6a1da5d049a2d2fa093536b3798fbf,new,2026-01-05T13:49:01.596133,,"Payment received on 20 October 2025 - £11,349.29",Nigel Farage,ad_hoc_payments
-71,2d34a326921441ba33b4f1a2750eefc5,new,2026-01-05T13:49:01.596133,,Payment received on 28 October 2025 - £643.01,Yvette Cooper,ad_hoc_payments
-72,194f765e8160454b7d07e1f9cabee196,new,2026-01-05T13:49:01.596133,,"Payment received on 15 October 2025 - £1,456.83",Nigel Farage,ad_hoc_payments
-73,6ada40c012d5353991dbb7f4e17d981b,new,2026-01-05T13:49:01.596133,,Payment received on 29 October 2025 - £601.27,Nigel Farage,ad_hoc_payments
-74,7e821638d979d31f20975f0ad72adab2,new,2026-01-05T13:49:01.596133,,"Payment received on 25 September 2024 - £4,064.50",Sarah Gibson,ad_hoc_payments
-75,206339d810a2b9870976c4f9cf294859,new,2026-01-05T13:49:01.596133,,Payment received on 25 November 2024 - £797.90,Sarah Gibson,ad_hoc_payments
-76,acdf4ea4b976e1488bf203220d4fdd44,new,2026-01-05T13:49:01.596133,,Payment received on 25 January 2025 - £797.90,Sarah Gibson,ad_hoc_payments
-77,bf69c725e42a5436b79420c7e532ab1a,new,2026-01-05T13:49:01.596133,,Payment received on 25 March 2025 - £802.48,Sarah Gibson,ad_hoc_payments
-78,3f6f639f99ae18c1723de78619962c6a,new,2026-01-05T13:49:01.596133,,Payment received on 25 June 2025 - £825.98,Sarah Gibson,ad_hoc_payments
-79,9fa67278b328e333da405bbf22dd52b2,new,2026-01-05T13:49:01.596133,,"Payment received on 28 October 2024 - £1,573.00",Ayoub Khan,ad_hoc_payments
-80,18b98891734a0adab74dd3b7544ae346,new,2026-01-05T13:49:01.596133,,"Payment received on 27 December 2024 - £1,573.00",Ayoub Khan,ad_hoc_payments
-81,f0915fe76af75439942d35159b741718,new,2026-01-05T13:49:01.596133,,"Payment expected for services on 31 October 2025 - £1,500.00",Louise Haigh,ad_hoc_payments
-82,e3b35fbab09be69ca9892055fbfa7316,new,2026-01-05T13:49:01.596133,,"Payment received on 26 July 2024 - £1,573.00",Ayoub Khan,ad_hoc_payments
-83,45aa9cadc10b6cf5a25f32d878048d14,new,2026-01-05T13:49:01.596133,,"Payment received on 28 August 2024 - £1,573.00",Ayoub Khan,ad_hoc_payments
-84,7bd8272210dc77c41617be8b1d1bbad6,new,2026-01-05T13:49:01.596133,,"Payment received on 28 August 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-85,e1fe9ec0a4c4a6ad52da07f7bf7ea305,new,2026-01-05T13:49:01.596133,,"Payment received on 26 September 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-86,16e24f1e7570d049c65d312639ea2008,new,2026-01-05T13:49:01.596133,,"Payment received on 28 April 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-87,40c3ce6b0fb7da83a7bc3385f95d5259,new,2026-01-05T13:49:01.596133,,"Payment received on 27 June 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-88,90c34cb2026d8ded84e99fafae148154,new,2026-01-05T13:49:01.596133,,"Payment received on 22 October 2025 - £6,000.00",Laura Trott,ad_hoc_payments
-89,1c4fda91e18a3719b4c4a93d21835110,new,2026-01-05T13:49:01.596133,,"Payment received on 28 February 2024 - £1,573.00",Ayoub Khan,ad_hoc_payments
-90,2542b9e8080fc65ca3d43213cef13d86,new,2026-01-05T13:49:01.596133,,"Payment received on 28 March 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-91,ee1b2a6ba0b04d4de805690cddfbb146,new,2026-01-05T13:49:01.596133,,"Payment received on 28 November 2024 - £1,573.00",Ayoub Khan,ad_hoc_payments
-92,03bca31d6d14731ecbe326684e7b7c5f,new,2026-01-05T13:49:01.596133,,"Payment received on 28 May 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-93,74683346d0eca017b5b10995f7343375,new,2026-01-05T13:49:01.596133,,"Payment received on 28 October 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-94,6eadf5d8d1f507f07faaed5c998f3b6d,new,2026-01-05T13:49:01.596133,,"Payment received on 27 September 2024 - £1,573.00",Ayoub Khan,ad_hoc_payments
-95,03bf8c8ef5cde1b49929825c850616f6,new,2026-01-05T13:49:01.596133,,"Payment received on 28 July 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-96,2fbb8f5641ac3118fc251385dd7fdece,new,2026-01-05T13:49:01.596133,,"Payment received on 28 January 2025 - £1,573.00",Ayoub Khan,ad_hoc_payments
-97,f8753e2302876dde6820a8606647b7c8,new,2026-01-05T13:49:01.596133,,Payment received on 25 September 2025 - £837.55,Sarah Gibson,ad_hoc_payments
-98,393095b0b50ccd465f2d96da4d776bc1,new,2026-01-05T13:49:01.596133,,"Payment received on 31 October 2025 - £4,000.00",Steve Barclay,ad_hoc_payments
-99,e896ed77122aa42c5b154d7a6f812220,new,2026-01-05T13:49:01.596133,,"Payment received on 29 October 2025 - £1,312.52",Rupert Lowe,ad_hoc_payments
-100,818f66a1d61dc580761e9f7e44d663ba,new,2026-01-05T13:49:01.596133,,Payment received on 25 October 2025 - £418.78,Sarah Gibson,ad_hoc_payments
-101,0fd8a7c434844b3acf725e153174c3f8,new,2026-01-05T13:49:01.596133,,Payment received on 17 October 2025 - £90.62,Sir Julian Smith,ad_hoc_payments
-102,5432bf79ee87a0bc664b1a8d270f1597,new,2026-01-05T13:49:01.596133,,Payment received on 24 October 2025 - £750.00,Suella Braverman,ad_hoc_payments
-103,eab58e00d031488a1f477a897fe8429e,new,2026-01-05T13:49:01.596133,,"Payment received on 28 October 2025 - £2,250.00",Suella Braverman,ad_hoc_payments
-104,124d36d48dab72e6f589247358ca06bb,new,2026-01-05T13:49:01.596133,,Payment received on 16 October 2025 - £600.00,Jess Phillips,ad_hoc_payments
-105,9f89b1310e28ed2cce0f956275059048,new,2026-01-05T13:49:01.596133,,"Payment received on 08 October 2025 - £25,000.00",Sir Oliver Dowden,ad_hoc_payments
-106,7500f29d56cc090de2e6eb645208251b,new,2026-01-05T13:49:01.596133,,Payment received on 13 October 2025 - £250.00,Tom Tugendhat,ad_hoc_payments
-107,76b3aad26d83a512067116b30b80d9eb,new,2026-01-05T13:49:01.596133,,"Payment received on 23 October 2025 - £9,226.56",Mark Garnier,ad_hoc_payments
-108,8dc3201c9093283c6f8ea8eae2a52a19,new,2026-01-05T13:49:01.596133,,Payment received on 23 October 2025 - £750.00,Sir Iain Duncan Smith,ad_hoc_payments
-109,d1903707680af7dd3f813dd2da943843,new,2026-01-05T13:49:01.596133,,Payment expected for services on 20 October 2025 - £500.00,Sir Jeremy Hunt,ad_hoc_payments
-110,9bbcb528805c08f04d94e06fca6c20ea,new,2026-01-05T13:49:01.596133,,"Payment received on 21 October 2025 - £2,918.51",Yuan Yang,ad_hoc_payments
-111,ec39c3eb41c667b928b27cfeb2b52f08,new,2026-01-05T13:49:01.596133,,Payment received on 30 September 2025 - £675.49,Jesse Norman,ad_hoc_payments
-112,548756c74dd874738876922fba1f249b,new,2026-01-05T13:49:01.596133,,"Payment received on 16 October 2025 - £141,000.00",Rishi Sunak,ad_hoc_payments
-113,a3815d31460988e2dd15840fe4d9e54f,new,2026-01-05T13:49:01.596133,,Payment received on 15 October 2025 - £196.24,Lee Anderson,ad_hoc_payments
-114,44ed66ae2a5d0980a88cf057e34fc5a8,new,2026-01-05T13:49:01.596133,,Payment received on 01 October 2025 - £108.75,Lee Anderson,ad_hoc_payments
-115,567430e4f51888a35e5f3db0335846b7,new,2026-01-05T13:49:01.596133,,Payment received on 03 October 2025 - £253.31,Jesse Norman,ad_hoc_payments
-116,1babba7f9bdf0d118c952e730602c10c,new,2026-01-05T13:49:01.596133,,Payment received on 15 October 2025 - £400.00,Esther McVey,ad_hoc_payments
-117,9e6e8cdd444914d1ddc22eaec3822bb1,new,2026-01-05T13:49:01.596133,,Payment received on 16 October 2025 - £98.40,Jesse Norman,ad_hoc_payments
-118,3baa01852c421da5986bc46e752a58b1,new,2026-01-05T13:49:01.596133,,"Payment received on 03 October 2025 - £10,000.00",Sir Oliver Dowden,ad_hoc_payments
-119,019a777dea8e73c541b4719199fc1589,new,2026-01-05T13:49:01.596133,,Payment received on 17 September 2025 - £100.35,Lee Anderson,ad_hoc_payments
-120,8f74bee0bf19046276fee58cedfa9aad,new,2026-01-05T13:49:01.596133,,Payment received on 09 October 2025 - £66.55,Jesse Norman,ad_hoc_payments
-121,c02c352a2d0882b98b23ccab8386a78a,new,2026-01-05T13:49:01.596133,,Payment received on 30 September 2025 - £950.00,Barry Gardiner,ad_hoc_payments
-122,33af856493656cd04f096b57d2beef98,new,2026-01-05T13:49:01.596133,,"Payment received on 16 October 2025 - £1,500.00",Dr Simon Opher,ad_hoc_payments
-123,74b507d3ef0e88ed1bb5180029270317,new,2026-01-05T13:49:01.596133,,Payment received on 01 October 2025 - £964.25,Sir Julian Smith,ad_hoc_payments
-124,6a088a9ea79ad7565282eb363bf793a6,new,2026-01-05T13:49:01.596133,,Payment received on 26 September 2025 - £37.49,Tony Vaughan,ad_hoc_payments
-125,0ec6acf41c2763ab8e6cd796f6ce8012,new,2026-01-05T13:49:01.596133,,"Payment received on 15 October 2025 - £2,055.56",Rupert Lowe,ad_hoc_payments
-126,495546bdbbd8e4f1ad8565f6a87b88a8,new,2026-01-05T13:49:01.596133,,Payment expected for services on 29 September 2025 - £150.00,Clive Lewis,ad_hoc_payments
-127,4074ec14e139c6335fa2c14cf18f9c82,new,2026-01-05T13:49:01.596133,,Payment expected for services on 08 September 2025 - £150.00,Clive Lewis,ad_hoc_payments
-128,8156edd27fa9b54358b93f558cbdef5a,new,2026-01-05T13:49:01.596133,,Payment received on 14 October 2025 - £630.00,Dr Neil Shastri-Hurst,ad_hoc_payments
-129,7a21912731718caae20739a4555cd4b5,new,2026-01-05T13:49:01.596133,,"Payment received on 08 August 2025 - £12,750.00",Sir James Cleverly,ad_hoc_payments
-130,852dea85f2bb81b5e84f3e23e908e851,new,2026-01-05T13:49:01.596133,,Payment received on 14 October 2025 - £500.00,Sir Iain Duncan Smith,ad_hoc_payments
-131,1f5a53595712949a44896d9bb652fd3a,new,2026-01-05T13:49:01.596133,,"Payment received on 25 July 2024 - £3,914.50",Sarah Gibson,ad_hoc_payments
-132,d86d078dccf212a42a1ead1c1650f595,new,2026-01-05T13:49:01.596133,,"Payment received on 25 August 2024 - £3,914.50",Sarah Gibson,ad_hoc_payments
-133,a2d87646e7903f5c93064e8db33ca73c,new,2026-01-05T13:49:01.596133,,Payment received on 25 October 2024 - £797.90,Sarah Gibson,ad_hoc_payments
-134,31c43f125d1da0349c4795087f984f52,new,2026-01-05T13:49:01.596133,,Payment received on 25 February 2025 - £797.90,Sarah Gibson,ad_hoc_payments
-135,24414c794051106a1a42d6f2a7770afa,new,2026-01-05T13:49:01.596133,,Payment received on 25 April 2025 - £825.98,Sarah Gibson,ad_hoc_payments
-136,11f391fbecd7d323c01ffb1008074776,new,2026-01-05T13:49:01.596133,,Payment received on 25 May 2025 - £825.98,Sarah Gibson,ad_hoc_payments
-137,477b6512598ff18422a257ceaaa03f75,new,2026-01-05T13:49:01.596133,,Payment received on 25 July 2025 - £825.98,Sarah Gibson,ad_hoc_payments
-138,57bc6b59c85bc3e40c97edf0e5541501,new,2026-01-05T13:49:01.596133,,Payment received on 25 August 2025 - £837.55,Sarah Gibson,ad_hoc_payments
-139,f83a3160fceee0ee0536c3cf54786bbf,new,2026-01-05T13:49:01.596133,,Payment received on 03 October 2025 - £200.00,Sir Jeremy Wright,ad_hoc_payments
-140,4f2a814c82d66c10beb870bb59cbaf5c,new,2026-01-05T13:49:01.596133,,"Payment received on 29 September 2025 - £1,000.00",Barry Gardiner,ad_hoc_payments
-141,ced87b37b711414bb3abc8aa065df44c,new,2026-01-05T13:49:01.596133,,Payment received on 14 March 2025 - £200.00,Sir Jeremy Wright,ad_hoc_payments
-142,638977d4633a8adc5a6353dbc201a7b2,new,2026-01-05T13:49:01.596133,,"Payment received on 03 October 2025 - £11,900.00",Sir James Cleverly,ad_hoc_payments
-143,04162a4c3f3aa7e84ea270583b87d85b,new,2026-01-05T13:49:01.596133,,"Payment received on 10 October 2025 - £8,220.00",Dr Neil Shastri-Hurst,ad_hoc_payments
-144,4a83a0e415f32bbe1cd1742cd089dd03,new,2026-01-05T13:49:01.596133,,"Payment received on 03 October 2025 - £5,950.00",Sir James Cleverly,ad_hoc_payments
-145,2a0ebac79b9d8299964ceb6fc36ac22d,new,2026-01-05T13:49:01.596133,,"Payment received on 02 October 2025 - £2,166.66",Esther McVey,ad_hoc_payments
-146,eaeadf53393f6b255d1d80a9ad8d97bf,new,2026-01-05T13:49:01.596133,,Payment received on 24 September 2025 - £290.34,Sir Keir Starmer,ad_hoc_payments
-147,b0557ce4f11a96cecd1d705d0ee816f9,new,2026-01-05T13:49:01.596133,,"Payment received on 30 September 2025 - £2,250.00",Suella Braverman,ad_hoc_payments
-148,7f6c1505702d56817e3bf42785adf0bb,new,2026-01-05T13:49:01.596133,,"Payment received on 25 September 2025 - £1,500.00",Suella Braverman,ad_hoc_payments
-149,d59bc3598f03086b08dca8cb713279a8,new,2026-01-05T13:49:01.596133,,"Payment received on 31 July 2025 - £43,491.60",Nigel Farage,ad_hoc_payments
-150,caeeca9734177436d60431a900ca6ca7,new,2026-01-05T13:49:01.596133,,"Payment received on 10 June 2025 - £12,986.23",Nigel Farage,ad_hoc_payments
-151,ed1979998932dbd212db2c0612b9b485,new,2026-01-05T13:49:01.596133,,"Payment received on 01 October 2025 - £1,138.06",Rupert Lowe,ad_hoc_payments
-152,10b02c657971c0dfcd331eb24212caab,new,2026-01-05T13:49:01.596133,,"Payment received on 08 May 2025 - £6,493.11",Nigel Farage,ad_hoc_payments
-153,cab0ac3b1628c504afaff3502524e79f,new,2026-01-05T13:49:01.596133,,"Payment received on 19 May 2025 - £6,493.11",Nigel Farage,ad_hoc_payments
-154,23cfd91c05b3a253477e601e24b82ffd,new,2026-01-05T13:49:01.596133,,"Payment received on 03 October 2025 - £36,729.98",Nigel Farage,ad_hoc_payments
-155,6d15207e26974c18357849351dec8bf7,new,2026-01-05T13:49:01.596133,,"Payment received on 22 September 2025 - £7,410.00",Nigel Farage,ad_hoc_payments
