@@ -1,4 +1,263 @@
 id,interest_hash,change_type,detected_at,old_value,new_value,member,category
+8408,1402973ae128e58795008e68d6be7032,new,2026-04-15T07:44:44.163931,,Payment received on 10 April 2026 - £270.00,Carolyn Harris,ad_hoc_payments
+8409,e7bc473f064311027c3b9617201b80bc,new,2026-04-15T07:44:44.163931,,Payment received on 25 March 2026 - £206.50,Chris Bryant,ad_hoc_payments
+8410,721122f08b2c269a49c2ee45832b4690,new,2026-04-15T07:44:44.163931,,Payment received on 10 April 2026 - £250.00,Dr Neil Shastri-Hurst,ad_hoc_payments
+8411,816e8a1ce12bbe52e708f7fa909ac4f0,new,2026-04-15T07:44:44.163931,,"Payment received on 20 March 2026 - £10,000.00",Angela Rayner,ad_hoc_payments
+8412,36457a388953b59234df259cfa096136,new,2026-04-15T07:44:44.163931,,"Payment received on 16 March 2026 - £60,000.00",Sir Geoffrey Cox,ad_hoc_payments
+8413,ee6642b4632436a4058ec0c3b840cfec,new,2026-04-15T07:44:44.163931,,"Payment received on 16 March 2026 - £20,000.00",Sir Geoffrey Cox,ad_hoc_payments
+8414,764288aa6e90be7f10a3b4da82220827,new,2026-04-15T07:44:44.163931,,"Payment received on 16 March 2026 - £11,050.00",Sir Geoffrey Cox,ad_hoc_payments
+8415,ef2c905b543ed8f549da25d1f156b72f,new,2026-04-15T07:44:44.163931,,Payment received on 23 January 2026 - £300.00,Paulette Hamilton,ad_hoc_payments
+8416,5a1bda38d0a7c7e8a0b89bcf07daae0c,new,2026-04-15T07:44:44.163931,,Payment received on 09 March 2026 - £185.00,Tom Tugendhat,ad_hoc_payments
+8417,ce859272acbdbe13f4d93e74b84c2cf2,new,2026-04-15T07:44:44.163931,,Payment received on 01 April 2026 - £375.00,Tom Tugendhat,ad_hoc_payments
+8418,ddd22414c334ef4284cae60e3b3d7dca,new,2026-04-15T07:44:44.163931,,Payment received on 25 March 2026 - £200.00,Tom Tugendhat,ad_hoc_payments
+8419,feb4119e1206e0cf02ffbf847e32af51,new,2026-04-15T07:44:44.163931,,Payment received on 25 March 2026 - £500.00,Tom Tugendhat,ad_hoc_payments
+8420,5750f73a947ec318b3718940424648d0,new,2026-04-15T07:44:44.163931,,"Payment received on 26 March 2026 - £1,500.00",Bell Ribeiro-Addy,ad_hoc_payments
+8421,d52143cf7ab00528943f698a92c55afd,new,2026-04-15T07:44:44.163931,,"Payment received on 17 March 2026 - £2,250.00",Suella Braverman,ad_hoc_payments
+8422,6b707f17f2be34e986dbd1cbd31471d1,new,2026-04-15T07:44:44.163931,,"Payment received on 01 April 2026 - £3,185.69",Rupert Lowe,ad_hoc_payments
+8423,1b568e06119211a483775246459d9bcb,new,2026-04-15T07:44:44.163931,,"Payment received on 18 March 2026 - £17,000.00",Sir Jeremy Hunt,ad_hoc_payments
+8424,d59a4f9ac5469be6bc76dedc41cbf72a,new,2026-04-15T07:44:44.163931,,"Payment received on 20 March 2026 - £17,000.00",Sir Jeremy Hunt,ad_hoc_payments
+8425,ae4a99e13e40eb8984bfa4e600dcb185,new,2026-04-15T07:44:44.163931,,"Payment received on 26 March 2026 - £17,000.00",Sir Jeremy Hunt,ad_hoc_payments
+8426,b511ab39a0a39140572e2573839c42a7,new,2026-04-15T07:44:44.163931,,"Payment received on 27 March 2026 - £20,000.00",Sir Jeremy Hunt,ad_hoc_payments
+8427,6ae2dae5f5e2ce654f1a4b4b95784bbd,new,2026-04-15T07:44:44.163931,,Payment received on 25 March 2026 - £668.46,Sir Keir Starmer,ad_hoc_payments
+8428,de9b7758a4a2c7f8640ccbad3eb03f0e,new,2026-04-15T07:44:44.163931,,Payment received on 18 March 2026 - £72.78,Lee Anderson,ad_hoc_payments
+8429,c4f51f1bb8d2bf842d5ea4ed3f014fa7,new,2026-04-15T07:44:44.163931,,Payment received on 16 March 2026 - £645.00,Barry Gardiner,ad_hoc_payments
+8430,aad1271fc0e9be4f0334a41ff856b004,new,2026-04-15T07:44:44.163931,,"Payment received on 23 March 2026 - £1,000.00",Barry Gardiner,ad_hoc_payments
+8431,7344378fdc306eebf883d0465b3602be,new,2026-04-15T07:44:44.163931,,"Payment received on 27 March 2026 - £1,000.00",Andrew Griffith,ad_hoc_payments
+8432,625c7065522dce040f6cd85dca1a4e19,new,2026-04-15T07:44:44.163931,,"Payment received on 10 March 2026 - £10,000.00",Angela Rayner,ad_hoc_payments
+8433,4570f93982cc02b5d9d166f650130551,new,2026-04-15T07:44:44.163931,,"Payment received on 30 March 2026 - £4,000.00",Steve Barclay,ad_hoc_payments
+8434,f2e875803f99ef81b1a3fd887f253ab6,new,2026-04-15T07:44:44.163931,,Payment received on 24 March 2026 - £820.00,Naz Shah,ad_hoc_payments
+8435,cb4b3e3fdf9ad52f77e126adc7b70363,new,2026-04-15T07:44:44.163931,,"Payment received on 27 March 2026 - £1,573.00",Ayoub Khan,ad_hoc_payments
+8436,02ff3c44db421559ed7cbee41d8d9303,new,2026-04-15T07:44:44.163931,,"Payment received on 26 March 2026 - £1,486.04",Tony Vaughan,ad_hoc_payments
+8437,f02296338505ccf2d2afcdc01c1c1001,new,2026-04-15T07:44:44.163931,,"Payment received on 13 March 2026 - £10,000.00",Sir Oliver Dowden,ad_hoc_payments
+8438,1c244d130932d418c0bdf5889b2a775d,new,2026-04-15T07:44:44.163931,,"Payment received on 13 March 2026 - £12,500.00",Sir Oliver Dowden,ad_hoc_payments
+8439,223a60f9bc2f91b40a17f493e7ed885f,new,2026-04-15T07:44:44.163931,,"Payment received on 28 February 2026 - £27,249.96",Dr Andrew Murrison,ad_hoc_payments
+8440,c5cb90c12e54fa7d58bb387c5b41b131,new,2026-04-15T07:44:44.163931,,"Payment received on 23 March 2026 - £1,550.00",Dr Simon Opher,ad_hoc_payments
+8441,95cb5135135978a0dbdf5b814347f82d,new,2026-04-15T07:44:44.163931,,"Stuart Leach Associates Limited - £4,000.00",Dr Neil Shastri-Hurst,donations
+8442,d1c2b7a99ee4653be44b58768063344f,new,2026-04-15T07:44:44.163931,,"Georgina Black - £73,500.00",Nick Timothy,donations
+8443,af2d3d479a39cacf85e3463b859246cd,new,2026-04-15T07:44:44.163931,,"JC Bamford Excavators Ltd - £25,000.00",Nick Timothy,donations
+8444,fefc1ceb03f570169b29ecf33fc289fa,new,2026-04-15T07:44:44.163931,,"Andrew Little - £15,000.00",Josh Babarinde,donations
+8445,fce8bc2179ab10a96852830de12a1006,new,2026-04-15T07:44:44.163931,,"Simon Camamile - £2,000.00",Claire Coutinho,donations
+8446,321a642d1817cb465ef12d5f453b6259,new,2026-04-15T07:44:44.163931,,"Jane & Philip Giesler - £2,000.00",Munira Wilson,donations
+8447,e988b1dccd74c37c47057be40e5fd34a,new,2026-04-15T07:44:44.163931,,"The Refugee, Asylum and Migration Policy Project (RAMP) - £9,945.00",David Simmonds,donations
+8448,a3864c397c22b236d8f67680f2f84ffc,new,2026-04-15T07:44:44.163931,,"Christopher Brotherton - £10,000.00",Charlie Maynard,donations
+8449,903c558a0f0593ddd7a2ac398c175440,new,2026-04-15T07:44:44.163931,,"Robert Tudge - £2,000.00",Alex Brewer,donations
+8450,9b39ef5d301f9bf9f3ec33f1157cac0f,new,2026-04-15T07:44:44.163931,,"GMB London region - £2,000.00",Alice Macdonald,donations
+8451,75a7d64db26b9fff33e4d1192b877e75,new,2026-04-15T07:44:44.163931,,"The Refugee, Asylum and Migration Policy Project (RAMP) - £9,945.00",Tony Vaughan,donations
+8452,92156137ec8a604156989c50b008d4ed,new,2026-04-15T07:44:44.163931,,"The Coalition for Global Prosperity - £8,100.00",Monica Harding,donations
+8453,1b993460d0ef9779fb8b3bafa9cdb38c,new,2026-04-15T07:44:44.163931,,"The Coalition for Global Prosperity (CGP) - £4,200.00",David Reed,donations
+8454,8dc034a5a4523a1203ca0e17ef8cd5da,new,2026-04-15T07:44:44.163931,,"Nicholas McCowan - £1,500.00",Andrew Lewin,donations
+8455,0220931618355653afff16847db69f75,new,2026-04-15T07:44:44.163931,,"Avanti West Coast - £2,864.00",Paula Barker,donations
+8456,25b040980ebfdec85950eb87c9284eab,new,2026-04-15T07:44:44.163931,,"Charles Max Keyner - £5,000.00",Laura Trott,donations
+8457,d4bb48e6de56332865a986f80b75222c,new,2026-04-15T07:44:44.163931,,"Mr Siavosh Rajabi - £10,000.00",Bob Blackman,donations
+8458,359b2396a74fc2ce45398befd5833ca5,new,2026-04-15T07:44:44.163931,,"GMB Union - £2,000.00",Chris McDonald,donations
+8459,2ec299244a729f9238a67d1aed0d9979,new,2026-04-15T07:44:44.163931,,"Dinesh Dhamija - £2,500.00",Clive Jones,donations
+8460,9967bd3f1ae49a20596b4c5727c11b06,new,2026-04-15T07:44:44.163931,,"Gary Grant - £2,000.00",Clive Jones,donations
+8461,98e2f85a1e7c025961ddf57ecb2629c7,new,2026-04-15T07:44:44.163931,,"Countryside Alliance - £3,500.00",Jenny Riddell-Carpenter,donations
+8462,b19d4969be7032adbf974302a810681f,new,2026-04-15T07:44:44.163931,,"Graham Edwards - £5,000.00",Claire Coutinho,donations
+8463,29c76e3ff3bce75d62ba506e8e047c64,new,2026-04-15T07:44:44.163931,,"Lord Michael Farmer - £5,000.00",Helen Whately,donations
+8464,69a0385ef0f2ffa44aa318eb9c04609a,new,2026-04-15T07:44:44.163931,,"Adam Management Holdings Ltd - £2,000.00",Steff Aquarone,donations
+8465,3bc3ae9686dc099464644473f9ddf38b,new,2026-04-15T07:44:44.163931,,"The Coalition for Global Prosperity (CGP) - £3,900.00",David Taylor,donations
+8466,2697294ac373af6ff3670b492ac83c62,new,2026-04-15T07:44:44.163931,,"Opal Ltd Company - £9,814.00",Hannah Spencer,donations
+8467,f3de88b5cfd940c4e04b3ae02eb0ead0,new,2026-04-15T07:44:44.163931,,"Julian Cusack - £10,000.00",Hannah Spencer,donations
+8468,417873a478053b9a146b585b4de6103e,new,2026-04-15T07:44:44.163931,,"Faith in Public Ltd - £7,982.03",Tim Farron,donations
+8469,f4e4a5c5af2cf1ce830875d5c67453e1,new,2026-04-15T07:44:44.163931,,"Erica Fernando - £3,000.00",Hannah Spencer,donations
+8470,74e97e61b945e45e87077c0fbd160cc1,new,2026-04-15T07:44:44.163931,,"Zoe Gardner - £2,500.00",Hannah Spencer,donations
+8471,f413e5dfcbd7ceb8595f685e739e1622,new,2026-04-15T07:44:44.163931,,"Heather Hunt - £5,000.00",Hannah Spencer,donations
+8472,3f12650eea3c7f9e0512c8f1cee89c15,new,2026-04-15T07:44:44.163931,,"Nick Marple - £5,000.00",Hannah Spencer,donations
+8473,08d17dbc04c8945a3e7a1b6b913e4f15,new,2026-04-15T07:44:44.163931,,"Alan Moore - £2,000.00",Hannah Spencer,donations
+8474,1e9af6030e70336164e1b08905cf5658,new,2026-04-15T07:44:44.163931,,"Sophie Paul - £2,000.00",Hannah Spencer,donations
+8475,7ee3b70403bbc5fc94aa97081f60ea48,new,2026-04-15T07:44:44.163931,,"Robin Waters - £30,000.00",Hannah Spencer,donations
+8476,932f0096f09447d15f2c91a4c67a72d3,new,2026-04-15T07:44:44.163931,,"Matthew Woolliscroft - £2,000.00",Hannah Spencer,donations
+8477,ac5ba1bfc2be648b222cd9188ca4f854,new,2026-04-15T07:44:44.163931,,"Simon Burgess - £25,000.00",Hannah Spencer,donations
+8478,585c89e7ee2fff367c6051f25d0a18cf,new,2026-04-15T07:44:44.163931,,"Sophie Paul - £25,000.00",Hannah Spencer,donations
+8479,3467e077251a51dd248182d073eb8b94,new,2026-04-15T07:44:44.163931,,"Faith in Public Ltd - £29,982.51",Tim Farron,donations
+8480,00795dcd21e291b6551a807ce838f522,new,2026-04-15T07:44:44.163931,,Leeds United FC - £340.00,Alex Sobel,gifts_uk
+8481,62cbdb893ff9ca6d950a890713b147fd,new,2026-04-15T07:44:44.163931,,"Avi Lasarow - £1,166.00",Suella Braverman,gifts_uk
+8482,9bd401cdf3485922aac27126cfaefc71,new,2026-04-15T07:44:44.163931,,"The Premier League - £2,072.00",Rachel Taylor,gifts_uk
+8483,4634c733af5897ad49501d689c4c3562,new,2026-04-15T07:44:44.163931,,Coventry City Football Club Limited - £450.00,Rachel Taylor,gifts_uk
+8484,6e1594f97586a54f59007067dd659469,new,2026-04-15T07:44:44.163931,,Anthropy Ltd - £750.00,Perran Moon,gifts_uk
+8485,b72c6445eb3256db3ca99db9136a7ae2,new,2026-04-15T07:44:44.163931,,Channel 4 - £698.00,Caroline Nokes,gifts_uk
+8486,069e37a74c052f2298c28c549cde6045,new,2026-04-15T07:44:44.163931,,"The Sun News Group Newspapers Limited - £2,600.00",Robert Jenrick,gifts_uk
+8487,7d1bd7bc979b55062be2e6310c7659b8,new,2026-04-15T07:44:44.163931,,S4C - £600.00,Dame Nia Griffith,gifts_uk
+8488,ab845319972f8bcc536c2bf66b4829aa,new,2026-04-15T07:44:44.163931,,The Jockey Club - £560.00,Nick Timothy,gifts_uk
+8489,31216c4e0307b8eeddfd795a46d32184,new,2026-04-15T07:44:44.163931,,Manchester Airport group - £400.00,Chris Vince,gifts_uk
+8490,02734760ab9c690d1485afaadc933143,new,2026-04-15T07:44:44.163931,,Football Association Limited - £360.00,Gregor Poynton,gifts_uk
+8491,b440e2a513ef643267d2f59b62bb4d22,new,2026-04-15T07:44:44.163931,,Italian Embassy in London - £140.00,Alberto Costa,gifts_uk
+8492,000e20e2d29c1a78f2155a3d0f81feb4,new,2026-04-15T07:44:44.163931,,Food and Drink Federation - £382.00,Ms Julie Minns,gifts_uk
+8493,4cced6119fa72e0da535c8440e901d73,new,2026-04-15T07:44:44.163931,,Italian Embassy in London - £70.00,Alberto Costa,gifts_uk
+8494,5365baaf4ffe1fb22bca7d0a83b5108a,new,2026-04-15T07:44:44.163931,,Welsh Rugby Union - £403.20,Tonia Antoniazzi,gifts_uk
+8495,421e86866005fa191c0bee404221fab6,new,2026-04-15T07:44:44.163931,,"Warner Music Group - £1,900.00",Rosie Wrighting,gifts_uk
+8496,79b1482e261f1618119852912c249822,new,2026-04-15T07:44:44.163931,,Google UK Ltd - £550.00,Rosie Wrighting,gifts_uk
+8497,49aff2d289b9534f500b9ebc498feb49,new,2026-04-15T07:44:44.163931,,Millwall Football and Athletic Company (1885) Limited - £299.00,Clive Efford,gifts_uk
+8498,96d1ed8dc0b142fe4a3619d810c51925,new,2026-04-15T07:44:44.163931,,Millwall Football and Athletic Company (1885) Limited - £230.00,Clive Efford,gifts_uk
+8499,882694c3b7a6f235304aec89d45f5451,new,2026-04-15T07:44:44.163931,,Discovery Corporate Services Limited - £500.00,Mr Gagan Mohindra,gifts_uk
+8500,de8eb8d7076cb28484b3f54ed4c8eb1b,new,2026-04-15T07:44:44.163931,,Asian Media Group (UK) Ltd - £600.00,Munira Wilson,gifts_uk
+8501,1b54f99328c2dbb652069a0a1b90db64,new,2026-04-15T07:44:44.163931,,Italian Embassy in London - £828.00,Alberto Costa,gifts_uk
+8502,c848301c0cf7ddd702a1ea5f420d1642,new,2026-04-15T07:44:44.163931,,Betting & Gaming Council - £300.00,Mr Peter Bedford,gifts_uk
+8503,e41165b32217540b023a258628f46780,new,2026-04-15T07:44:44.163931,,Betting & Gaming Council - £220.00,Mr Peter Bedford,gifts_uk
+8504,d1e3ab35bc6b055e1276d74a2fba6bcb,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £15.20,Alberto Costa,gifts_uk
+8505,52de84ba0b14e47eb86ff4ea9a3d7401,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £9.80,Alberto Costa,gifts_uk
+8506,0957f07e6fef2dcd5dc9948f44e7d1d3,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £5.48,Alberto Costa,gifts_uk
+8507,80b5fdc8225dea2e0fe21faa11571907,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £11.00,Alberto Costa,gifts_uk
+8508,da5c39dc838104935a684e08656b70d7,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £6.45,Alberto Costa,gifts_uk
+8509,25db046b2a31ce83c9d6129ca6ab4ec2,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £35.90,Alberto Costa,gifts_uk
+8510,274ec5169da63997daacd2da9b15573d,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £192.38,Alberto Costa,gifts_uk
+8511,98ea8ad2fb87c5f8d72da79f4eea3e89,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £32.40,Alberto Costa,gifts_uk
+8512,e3e819165fc2c7b7941b9b56c8da1bfc,new,2026-04-15T07:44:44.163931,,"BPI (British Recorded Music Industry) Ltd - £3,432.00",Mrs Elsie Blundell,gifts_uk
+8513,213768ed269e848debd891f2fc79888a,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £19.20,Alberto Costa,gifts_uk
+8514,3a8a6db0b94c178f55e491c28534bbc9,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £3.80,Alberto Costa,gifts_uk
+8515,c2e19a196655ef6f6866fe1b5e393cb4,new,2026-04-15T07:44:44.163931,,The English Football League (EFL) - £900.00,Jeff Smith,gifts_uk
+8516,2261cd94bfe6152246a505958a1b34b5,new,2026-04-15T07:44:44.163931,,International visit to India between 11 March 2026 and 14 March 2026,Dan Carden,visits
+8517,16cdf7b354e72d0689a999eea00ad83e,new,2026-04-15T07:44:44.163931,,International visit to United States between 11 March 2026 and 14 March 2026,Alicia Kearns,visits
+8518,2f13c36e7be927de88601dbe62557911,new,2026-04-15T07:44:44.163931,,International visit to United States between 21 February 2026 and 08 March 2026,Stephen Flynn,visits
+8519,07ee8b76cf5e7f6a9ded4b5250022523,new,2026-04-15T07:44:44.163931,,International visit to India between 04 March 2026 and 08 March 2026,Tom Tugendhat,visits
+8520,ba7685465a102b778cbd8da450ac6c93,new,2026-04-15T07:44:44.163931,,International visit to United States between 26 February 2026 and 29 March 2026,Sir Jeremy Hunt,visits
+8521,726545a999c12ddf294506f1422279b3,new,2026-04-15T07:44:44.163931,,International visit to Japan between 06 March 2026 and 16 March 2026,Monica Harding,visits
+8522,57a13dbda5832952877647f3db780145,new,2026-04-15T07:44:44.163931,,International visit to Ukraine between 19 February 2026 and 25 February 2026,Steve Darling,visits
+8523,09791d8b4588981826d0064363640968,new,2026-04-15T07:44:44.163931,,International visit to Cuba between 19 March 2026 and 23 March 2026,Jeremy Corbyn,visits
+8524,178833d5b79d88f39cb998a7a2f66de3,new,2026-04-15T07:44:44.163931,,International visit to Ukraine between 19 February 2026 and 25 February 2026,Jim McMahon,visits
+8525,a99068ed33b9088721fbd9a562d119fb,new,2026-04-15T07:44:44.163931,,International visit to Japan between 10 March 2026 and 16 March 2026,Rebecca Paul,visits
+8526,c8f8ad019f768cde4dc262f51a5e1687,new,2026-04-15T07:44:44.163931,,International visit to Netherlands between 06 March 2026 and 08 March 2026,Jeremy Corbyn,visits
+8527,15abb14a6d8ff7398fdc0c356a4b055a,new,2026-04-15T07:44:44.163931,,International visit to Ukraine between 19 February 2026 and 25 February 2026,Sir Geoffrey Clifton-Brown,visits
+8528,6127577395f4373f9dee8ef81ac3849a,new,2026-04-15T07:44:44.163931,,International visit to India between 09 March 2026 and 15 March 2026,Shivani Raja,visits
+8529,c2465cfc52d20c2dd33dd0ee70fb940e,new,2026-04-15T07:44:44.163931,,International visit to Japan between 06 March 2026 and 16 March 2026,Sir Mark Hendrick,visits
+8530,0dbe32c63b4196d99ac4798a0048cf7e,new,2026-04-15T07:44:44.163931,,International visit to United States between 15 March 2026 and 19 March 2026,Mr Cathal Mallaghan,visits
+8531,6943cb0bf2d27160f1ac09e1bdc89539,new,2026-04-15T07:44:44.163931,,"Director, Restore Britain Ltd. This is an unpaid role.",Rupert Lowe,miscellaneous
+8532,fc17cd5114d687c142785312b30fe7c3,new,2026-04-15T07:44:44.163931,,"Director of Carclew Limited, a small private company which provides business consultancy services but excludes advice on parliamentary or public affairs (previously registered under Category 1 and updated 20 June 2017).",Sir Christopher Chope,miscellaneous
+8533,2b9cec718a72f890ad97c5f28bdb8e4a,new,2026-04-15T07:44:44.163931,,A Trustee of Friends of Wamphray Church Steering Group. This is an unpaid role.,David Mundell,miscellaneous
+8534,e2f376a601947983bf2b89235c33e78c,new,2026-04-15T07:44:44.163931,,"Payment received on 28 February 2026 - £27,249.96",Dr Andrew Murrison,overall
+8535,978d6b8996ab60ff9f6085b926741e32,new,2026-04-15T07:44:44.163931,,Payment received on 25 March 2026 - £668.46,Sir Keir Starmer,overall
+8536,4114641f1d9029568de43e0ba139328c,new,2026-04-15T07:44:44.163931,,"Payment received on 26 March 2026 - £1,486.04",Tony Vaughan,overall
+8537,a40c0b4873da041bb36802c0954b3c9b,new,2026-04-15T07:44:44.163931,,Payment received on 10 April 2026 - £250.00,Dr Neil Shastri-Hurst,overall
+8538,4021e1c414fe3209e9d0b8c560c20a7d,new,2026-04-15T07:44:44.163931,,"Payment received on 27 March 2026 - £1,573.00",Ayoub Khan,overall
+8539,fee700473e8a640e6a3dae12eebeaff3,new,2026-04-15T07:44:44.163931,,"Payment received on 23 March 2026 - £1,550.00",Dr Simon Opher,overall
+8540,1fa03c7f812f20758229400befdfde76,new,2026-04-15T07:44:44.163931,,Payment received on 24 March 2026 - £820.00,Naz Shah,overall
+8541,02b6b688f887a7e0be64e96c48e6a6e8,new,2026-04-15T07:44:44.163931,,Payment received on 25 March 2026 - £206.50,Chris Bryant,overall
+8542,9371ae55f8c54abcc66f97c7ffcdfdc2,new,2026-04-15T07:44:44.163931,,"Payment received on 17 March 2026 - £2,250.00",Suella Braverman,overall
+8543,c16bd2f358cb023b096fab23de9a5505,new,2026-04-15T07:44:44.163931,,"Payment received on 18 March 2026 - £17,000.00",Sir Jeremy Hunt,overall
+8544,00641d52a870325b9728393b110c30b5,new,2026-04-15T07:44:44.163931,,"Payment received on 20 March 2026 - £17,000.00",Sir Jeremy Hunt,overall
+8545,0bd2b5f40ce25f6fdf55a5052db36c13,new,2026-04-15T07:44:44.163931,,"Payment received on 26 March 2026 - £17,000.00",Sir Jeremy Hunt,overall
+8546,0fdb7656242150d2c8bc065c38a52bf6,new,2026-04-15T07:44:44.163931,,"Payment received on 27 March 2026 - £20,000.00",Sir Jeremy Hunt,overall
+8547,ca2e55492c2c8e909e3d23f9e6498d7b,new,2026-04-15T07:44:44.163931,,Payment received on 10 April 2026 - £270.00,Carolyn Harris,overall
+8548,9134e4cafeb1548bb5cc7e6e660849cc,new,2026-04-15T07:44:44.163931,,"Payment received on 01 April 2026 - £3,185.69",Rupert Lowe,overall
+8549,6e3cebffc5548b81ed46f6ff96d45b2f,new,2026-04-15T07:44:44.163931,,Payment received on 18 March 2026 - £72.78,Lee Anderson,overall
+8550,998117cc3d5290cbde78828d15e10e64,new,2026-04-15T07:44:44.163931,,"Payment received on 13 March 2026 - £10,000.00",Sir Oliver Dowden,overall
+8551,40bd57a186d77ebcb9c11efdba2c1c1b,new,2026-04-15T07:44:44.163931,,Payment received on 25 March 2026 - £200.00,Tom Tugendhat,overall
+8552,621c6ed5d025365bb0d45f262306a27c,new,2026-04-15T07:44:44.163931,,Payment received on 25 March 2026 - £500.00,Tom Tugendhat,overall
+8553,713c6b974b6aa107beded6653b7714fe,new,2026-04-15T07:44:44.163931,,Payment received on 16 March 2026 - £645.00,Barry Gardiner,overall
+8554,aa0ebc6c7b61d20a3adca083e1a2b307,new,2026-04-15T07:44:44.163931,,Payment received on 23 January 2026 - £300.00,Paulette Hamilton,overall
+8555,ac30ca5f81f96a77e593a21dd5f35899,new,2026-04-15T07:44:44.163931,,"Faith in Public Ltd - £29,982.51",Tim Farron,overall
+8556,9e18cd82b9857d056bd11d5dd8e16c2f,new,2026-04-15T07:44:44.163931,,"Payment received on 30 March 2026 - £4,000.00",Steve Barclay,overall
+8557,7574a51583f549d3250e8edab0e453ae,new,2026-04-15T07:44:44.163931,,"Payment received on 23 March 2026 - £1,000.00",Barry Gardiner,overall
+8558,739e9954508ca4be8449d5f8633f428f,new,2026-04-15T07:44:44.163931,,"Payment received on 13 March 2026 - £12,500.00",Sir Oliver Dowden,overall
+8559,1f9e1ea5f28402ff41cbd1cdb6b5c582,new,2026-04-15T07:44:44.163931,,"Faith in Public Ltd - £7,982.03",Tim Farron,overall
+8560,49b818a14cfac9b936ec1dfe07cf4d01,new,2026-04-15T07:44:44.163931,,"Payment received on 16 March 2026 - £20,000.00",Sir Geoffrey Cox,overall
+8561,bd333806a560f31b9eed37039c0e9e15,new,2026-04-15T07:44:44.163931,,"Payment received on 16 March 2026 - £11,050.00",Sir Geoffrey Cox,overall
+8562,32964f1290bf85a1f23150df79d81c98,new,2026-04-15T07:44:44.163931,,A Trustee of Friends of Wamphray Church Steering Group. This is an unpaid role.,David Mundell,overall
+8563,57dfd6772676596040aaa6066c1c9f5b,new,2026-04-15T07:44:44.163931,,"Payment received on 16 March 2026 - £60,000.00",Sir Geoffrey Cox,overall
+8564,96bef5fe8f810086f0dbe7339cd9460a,new,2026-04-15T07:44:44.163931,,International visit to Ukraine between 19 February 2026 and 25 February 2026,Jim McMahon,overall
+8565,966d18ec3fdcf34e033b26f4ea73d11a,new,2026-04-15T07:44:44.163931,,Millwall Football and Athletic Company (1885) Limited - £299.00,Clive Efford,overall
+8566,8127dd75a2f77c81bd51b5a3bf05aab9,new,2026-04-15T07:44:44.163931,,International visit to United States between 11 March 2026 and 14 March 2026,Alicia Kearns,overall
+8567,c09277fdbe30ebe68dba9541c60558ed,new,2026-04-15T07:44:44.163931,,Speaking engagement - Chartwell Speakers,Angela Rayner,overall
+8568,0b26d610c78e2a5012e3eda676c28deb,new,2026-04-15T07:44:44.163931,,"Payment received on 10 March 2026 - £10,000.00",Angela Rayner,overall
+8569,c02d6abad308737053ecc8792bde8cae,new,2026-04-15T07:44:44.163931,,International visit to Ukraine between 19 February 2026 and 25 February 2026,Sir Geoffrey Clifton-Brown,overall
+8570,2bb5c59f82bdacd09055ca5205cf33ce,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £15.20,Alberto Costa,overall
+8571,8440bea9194234b1f64adcb95ef1dcef,new,2026-04-15T07:44:44.163931,,International visit to United States between 15 March 2026 and 19 March 2026,Mr Cathal Mallaghan,overall
+8572,59fdfefaae94ced4b7c4323666ec57fa,new,2026-04-15T07:44:44.163931,,"Julian Cusack - £10,000.00",Hannah Spencer,overall
+8573,55c33d7a6a5bc25a61ddd164859f184f,new,2026-04-15T07:44:44.163931,,"Erica Fernando - £3,000.00",Hannah Spencer,overall
+8574,478831c65c555b90db5d7aeb7bc3e40c,new,2026-04-15T07:44:44.163931,,"Zoe Gardner - £2,500.00",Hannah Spencer,overall
+8575,f8645a79395eea65cedfe5db9afbf0e2,new,2026-04-15T07:44:44.163931,,"Heather Hunt - £5,000.00",Hannah Spencer,overall
+8576,b35fc92174df0070b14623849161ae27,new,2026-04-15T07:44:44.163931,,"Nick Marple - £5,000.00",Hannah Spencer,overall
+8577,fe14f2e5af1ae6726681482ecef0889c,new,2026-04-15T07:44:44.163931,,"Alan Moore - £2,000.00",Hannah Spencer,overall
+8578,68931705b15afd3de1404bd8b2daf213,new,2026-04-15T07:44:44.163931,,"Sophie Paul - £2,000.00",Hannah Spencer,overall
+8579,025b58e6b9c59074e705442107582feb,new,2026-04-15T07:44:44.163931,,"Robin Waters - £30,000.00",Hannah Spencer,overall
+8580,9ef343eb046a4ab6c36cbbb2c6b85877,new,2026-04-15T07:44:44.163931,,"Matthew Woolliscroft - £2,000.00",Hannah Spencer,overall
+8581,72aab387f889a0961288b7a5bf753ff8,new,2026-04-15T07:44:44.163931,,International visit to Japan between 06 March 2026 and 16 March 2026,Sir Mark Hendrick,overall
+8582,02b61b25789683ed386f53a1bf0ea51a,new,2026-04-15T07:44:44.163931,,The English Football League (EFL) - £900.00,Jeff Smith,overall
+8583,de9ace112a117d47c289271c6e17e65d,new,2026-04-15T07:44:44.163931,,"Graham Edwards - £5,000.00",Claire Coutinho,overall
+8584,ea6bfcbe8b56c85380b66acdab03dd3d,new,2026-04-15T07:44:44.163931,,"Adam Management Holdings Ltd - £2,000.00",Steff Aquarone,overall
+8585,969482e92c8aa2376c616154b5566b56,new,2026-04-15T07:44:44.163931,,"Lord Michael Farmer - £5,000.00",Helen Whately,overall
+8586,68bd4b58e3bb88429d4b3e9aafbe10e0,new,2026-04-15T07:44:44.163931,,"Simon Burgess - £25,000.00",Hannah Spencer,overall
+8587,0110f2ce560f6a3ca9067804f8d7145d,new,2026-04-15T07:44:44.163931,,"Sophie Paul - £25,000.00",Hannah Spencer,overall
+8588,3b165fa0c160a46cf7a2294170aaab2f,new,2026-04-15T07:44:44.163931,,"Opal Ltd Company - £9,814.00",Hannah Spencer,overall
+8589,cda8eebbc07c47771f8435b20b65a209,new,2026-04-15T07:44:44.163931,,International visit to India between 09 March 2026 and 15 March 2026,Shivani Raja,overall
+8590,629094699645af56659c6699cb4d3f96,new,2026-04-15T07:44:44.163931,,"The Coalition for Global Prosperity (CGP) - £3,900.00",David Taylor,overall
+8591,6a50b719ac992e97250e5d292ef9a639,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £9.80,Alberto Costa,overall
+8592,c8eb243c5610ee528ebfb55ff6fcdae5,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £5.48,Alberto Costa,overall
+8593,b2364caf4e6e46a07303269556ce34a5,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £11.00,Alberto Costa,overall
+8594,acc652443c878d364d35fbd5db10e5b0,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £3.80,Alberto Costa,overall
+8595,dd723ae1ced30e913ab6793f6d31591b,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £6.45,Alberto Costa,overall
+8596,247284d558004a77b2e335a81229d716,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £35.90,Alberto Costa,overall
+8597,8335ea967ff664a8afb6abe940a3c458,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £192.38,Alberto Costa,overall
+8598,fd4ae35a80dcabf5c2e5901f6e377976,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £19.20,Alberto Costa,overall
+8599,826d41ab3229dbfe8ce065b422b4ee1a,new,2026-04-15T07:44:44.163931,,All-Party Parliamentary Group for Italy - £32.40,Alberto Costa,overall
+8600,0b708d2d8b334b472c26aec147de6dd8,new,2026-04-15T07:44:44.163931,,Advisor - I Squared Capital Advisors LLP,Gareth Davies,overall
+8601,58daebb053d5291226bfb94cd2431fed,new,2026-04-15T07:44:44.163931,,"BPI (British Recorded Music Industry) Ltd - £3,432.00",Mrs Elsie Blundell,overall
+8602,41f31eeee485c91488ed6caf15d0840a,new,2026-04-15T07:44:44.163931,,International visit to Netherlands between 06 March 2026 and 08 March 2026,Jeremy Corbyn,overall
+8603,ab2c72e32c5d258c16b88de6e13d9b6e,new,2026-04-15T07:44:44.163931,,"Dinesh Dhamija - £2,500.00",Clive Jones,overall
+8604,dbba06afca5b8f6f8f4d5660de51e55c,new,2026-04-15T07:44:44.163931,,"Gary Grant - £2,000.00",Clive Jones,overall
+8605,56e9116778d37f1bf8f0d255d3f815c5,new,2026-04-15T07:44:44.163931,,Asian Media Group (UK) Ltd - £600.00,Munira Wilson,overall
+8606,64649e77186f28b3d830afc276699744,new,2026-04-15T07:44:44.163931,,Betting & Gaming Council - £300.00,Mr Peter Bedford,overall
+8607,7c6d1ae40d566f28bf02f84f2d369ad2,new,2026-04-15T07:44:44.163931,,Betting & Gaming Council - £220.00,Mr Peter Bedford,overall
+8608,ff430263f011bde1e953c2e2efa62136,new,2026-04-15T07:44:44.163931,,"Countryside Alliance - £3,500.00",Jenny Riddell-Carpenter,overall
+8609,23489db25d1a8831a1a4a11cd4e42685,new,2026-04-15T07:44:44.163931,,International visit to Japan between 10 March 2026 and 16 March 2026,Rebecca Paul,overall
+8610,7e1aedfe5824931bbd3d9ca99e98d6d5,new,2026-04-15T07:44:44.163931,,Anthropy Ltd - £750.00,Perran Moon,overall
+8611,ee342a8c3bc483d35017debc1c950ee9,new,2026-04-15T07:44:44.163931,,Italian Embassy in London - £140.00,Alberto Costa,overall
+8612,7833d7617b2a967ddd773e6c5ecb56e2,new,2026-04-15T07:44:44.163931,,"GMB Union - £2,000.00",Chris McDonald,overall
+8613,f3abe9eddf786878fbe02f7a3a46c5dd,new,2026-04-15T07:44:44.163931,,Italian Embassy in London - £828.00,Alberto Costa,overall
+8614,b8ef13c93fa0904c7139ae5cbd4895c1,new,2026-04-15T07:44:44.163931,,Discovery Corporate Services Limited - £500.00,Mr Gagan Mohindra,overall
+8615,ddea61189f40e4d070dc04cf9294b83c,new,2026-04-15T07:44:44.163931,,International visit to Ukraine between 19 February 2026 and 25 February 2026,Steve Darling,overall
+8616,dcc259719ab8413a85ef97aae1120486,new,2026-04-15T07:44:44.163931,,International visit to Cuba between 19 March 2026 and 23 March 2026,Jeremy Corbyn,overall
+8617,e4560a76d84005188eb5e05b1e244f8f,new,2026-04-15T07:44:44.163931,,"Warner Music Group - £1,900.00",Rosie Wrighting,overall
+8618,c1e32f7550bb5c69be2447551c9d712b,new,2026-04-15T07:44:44.163931,,Google UK Ltd - £550.00,Rosie Wrighting,overall
+8619,9cf0dfda4a11ebb21f1b357a583b28f9,new,2026-04-15T07:44:44.163931,,"Charles Max Keyner - £5,000.00",Laura Trott,overall
+8620,37b0487ab3feade04b9c64f39a0b2228,new,2026-04-15T07:44:44.163931,,"Mr Siavosh Rajabi - £10,000.00",Bob Blackman,overall
+8621,9de3de1364f4613d3defce60514e70d7,new,2026-04-15T07:44:44.163931,,Non-recurring podcast guest - The Rigby Foundation,Andrew Griffith,overall
+8622,90f82ce4ddf1cff8196b9eeedc7281dd,new,2026-04-15T07:44:44.163931,,"Payment received on 27 March 2026 - £1,000.00",Andrew Griffith,overall
+8623,19a81da5c481f2a84881fd72fcedc081,new,2026-04-15T07:44:44.163931,,Millwall Football and Athletic Company (1885) Limited - £230.00,Clive Efford,overall
+8624,0d033248798df61b2704a1c3835a8168,new,2026-04-15T07:44:44.163931,,"Avanti West Coast - £2,864.00",Paula Barker,overall
+8625,ff6ee8b466000b6da652d01063e2d3d1,new,2026-04-15T07:44:44.163931,,International visit to Japan between 06 March 2026 and 16 March 2026,Monica Harding,overall
+8626,f4d0fcc4d438d99e7039214f5e3cf2a8,new,2026-04-15T07:44:44.163931,,"The Coalition for Global Prosperity - £8,100.00",Monica Harding,overall
+8627,ac0c306739c4aed20e81fe542e0df0ab,new,2026-04-15T07:44:44.163931,,"The Coalition for Global Prosperity (CGP) - £4,200.00",David Reed,overall
+8628,d2781a48bafc4d9dc1fdf0eaeee4ac25,new,2026-04-15T07:44:44.163931,,International visit to United States between 21 February 2026 and 08 March 2026,Stephen Flynn,overall
+8629,63176a6445fd6a74216538b5e2a0404d,new,2026-04-15T07:44:44.163931,,"Nicholas McCowan - £1,500.00",Andrew Lewin,overall
+8630,aec690e7fa21f2c0ab9b8e35a5ef9d3f,new,2026-04-15T07:44:44.163931,,Welsh Rugby Union - £403.20,Tonia Antoniazzi,overall
+8631,137b581df5465cfaef75a3eb88c78a20,new,2026-04-15T07:44:44.163931,,Speaking engagement - Signum Global Advisors LLP,Angela Rayner,overall
+8632,859885b004e80a7d04fb291b5913bf8f,new,2026-04-15T07:44:44.163931,,"Payment received on 20 March 2026 - £10,000.00",Angela Rayner,overall
+8633,517e47190c2d65635d2c11ddb488bb57,new,2026-04-15T07:44:44.163931,,"Director of Carclew Limited, a small private company which provides business consultancy services but excludes advice on parliamentary or public affairs (previously registered under Category 1 and updated 20 June 2017).",Sir Christopher Chope,overall
+8634,40801f370478f00be2e85d68c2301e21,new,2026-04-15T07:44:44.163931,,Food and Drink Federation - £382.00,Ms Julie Minns,overall
+8635,e8fb34419dff3a0addf88de97122fc10,new,2026-04-15T07:44:44.163931,,Italian Embassy in London - £70.00,Alberto Costa,overall
+8636,b039e048a60bac15b01fa40b55368be8,new,2026-04-15T07:44:44.163931,,"Director, Restore Britain Ltd. This is an unpaid role.",Rupert Lowe,overall
+8637,6e44abdce0cd16c58f69c3cbc0e27543,new,2026-04-15T07:44:44.163931,,Football Association Limited - £360.00,Gregor Poynton,overall
+8638,db2df9f9decd3a093d1112f0124a9f8b,new,2026-04-15T07:44:44.163931,,"The Refugee, Asylum and Migration Policy Project (RAMP) - £9,945.00",Tony Vaughan,overall
+8639,b2a4967efa3731c250b645992816ac49,new,2026-04-15T07:44:44.163931,,International visit to United States between 26 February 2026 and 29 March 2026,Sir Jeremy Hunt,overall
+8640,0187371632724adfbaee2195cea4a83e,new,2026-04-15T07:44:44.163931,,International visit to India between 04 March 2026 and 08 March 2026,Tom Tugendhat,overall
+8641,7d770cb349aeb7fe3f987cb20018651d,new,2026-04-15T07:44:44.163931,,"Writing articles - Dow Jones & Company, Inc.",Tom Tugendhat,overall
+8642,dbd87c02809a6dd6efd9e2d6f8695fb6,new,2026-04-15T07:44:44.163931,,Payment received on 09 March 2026 - £185.00,Tom Tugendhat,overall
+8643,fc270b27ffbb546fad607337d0cdc45a,new,2026-04-15T07:44:44.163931,,Payment received on 01 April 2026 - £375.00,Tom Tugendhat,overall
+8644,a33008b6c20caf7cce297b485f128a09,new,2026-04-15T07:44:44.163931,,"The Refugee, Asylum and Migration Policy Project (RAMP) - £9,945.00",David Simmonds,overall
+8645,4b00df807920857755ffce110143f245,new,2026-04-15T07:44:44.163931,,"Christopher Brotherton - £10,000.00",Charlie Maynard,overall
+8646,10c1053c42d972437d04f8a1a1457790,new,2026-04-15T07:44:44.163931,,"GMB London region - £2,000.00",Alice Macdonald,overall
+8647,1b4bb88c0a309f3888f2d8e79c0b7592,new,2026-04-15T07:44:44.163931,,"Robert Tudge - £2,000.00",Alex Brewer,overall
+8648,2bb13259666b0335e4e866c952debbb7,new,2026-04-15T07:44:44.163931,,Speaking Engagement at Powered by Africa Campaign website launch on 13th March 2026 - Inclusive Boards,Bell Ribeiro-Addy,overall
+8649,c05c0148f5eedfc11e03fec070d0b0dc,new,2026-04-15T07:44:44.163931,,"Payment received on 26 March 2026 - £1,500.00",Bell Ribeiro-Addy,overall
+8650,5c3cf6a8424a95a3e3d349247cc296a9,new,2026-04-15T07:44:44.163931,,Manchester Airport group - £400.00,Chris Vince,overall
+8651,0e0bd93da592eb3fe485a2c239343b31,new,2026-04-15T07:44:44.163931,,"The Sun News Group Newspapers Limited - £2,600.00",Robert Jenrick,overall
+8652,635b3312473ad9184d35648f1d28b5c6,new,2026-04-15T07:44:44.163931,,"Jane & Philip Giesler - £2,000.00",Munira Wilson,overall
+8653,d4cfea4beb28df68b3a8b414b320a5a0,new,2026-04-15T07:44:44.163931,,International visit to India between 11 March 2026 and 14 March 2026,Dan Carden,overall
+8654,b38c460468e35288e63cc5b5a0a5db97,new,2026-04-15T07:44:44.163931,,S4C - £600.00,Dame Nia Griffith,overall
+8655,2c71890ec71729d3a55ff877ecee38ad,new,2026-04-15T07:44:44.163931,,The Jockey Club - £560.00,Nick Timothy,overall
+8656,1bf3e3967cb84cca14ba57d4c843b958,new,2026-04-15T07:44:44.163931,,"Georgina Black - £73,500.00",Nick Timothy,overall
+8657,92c40f4417f1504f64880ea95f90f37e,new,2026-04-15T07:44:44.163931,,"JC Bamford Excavators Ltd - £25,000.00",Nick Timothy,overall
+8658,ccabdf693e5b8efdd574b3d1562886db,new,2026-04-15T07:44:44.163931,,"Simon Camamile - £2,000.00",Claire Coutinho,overall
+8659,67398a822cf0f07d29a73035eef4f85c,new,2026-04-15T07:44:44.163931,,Channel 4 - £698.00,Caroline Nokes,overall
+8660,fb2d5e72e12ea8f737f7a40f5541d8d5,new,2026-04-15T07:44:44.163931,,"Andrew Little - £15,000.00",Josh Babarinde,overall
+8661,67e737ed8e4e648561629302895f09ab,new,2026-04-15T07:44:44.163931,,"Stuart Leach Associates Limited - £4,000.00",Dr Neil Shastri-Hurst,overall
+8662,fbc553b41678d767bad64ef40b39fff9,new,2026-04-15T07:44:44.163931,,Matthew Riddell- Carpenter employed as Lobbyist,Jenny Riddell-Carpenter,overall
+8663,ad542ba6a21df219b10918053175d00a,new,2026-04-15T07:44:44.163931,,Leeds United FC - £340.00,Alex Sobel,overall
+8664,876de5d7d91d365366eed49b001b8a27,new,2026-04-15T07:44:44.163931,,"Avi Lasarow - £1,166.00",Suella Braverman,overall
+8665,529d2795ef2fda716a80118eedc8f20c,new,2026-04-15T07:44:44.163931,,Coventry City Football Club Limited - £450.00,Rachel Taylor,overall
+8666,8035a1976fe950662be8ab5514940800,new,2026-04-15T07:44:44.163931,,"The Premier League - £2,072.00",Rachel Taylor,overall
 8244,13a08b018daf71adc6ee611eb6e79407,new,2026-03-25T07:01:46.157056,,Payment expected for services on 18 March 2026 - £150.00,Dame Karen Bradley,ad_hoc_payments
 8245,cab2f35ff8921ef457352806644b5e37,new,2026-03-25T07:01:46.157056,,Payment received on 19 March 2026 - £600.00,Paulette Hamilton,ad_hoc_payments
 8246,bc41cbfc16d88b4b943b9e5fb3eabe96,new,2026-03-25T07:01:46.157056,,"Payment received on 26 February 2026 - £13,890.00",Dr Zubir Ahmed,ad_hoc_payments
@@ -240,274 +499,3 @@ id,interest_hash,change_type,detected_at,old_value,new_value,member,category
 8141,7ef487382bb12324fe2406e386639fa9,new,2026-03-11T06:53:31.720693,,Property in Val de Louyre,Richard Baker,property
 8142,c5918f732c9aa57a5d9ed89a7e0db94e,new,2026-03-11T06:53:31.720693,,Property in West Oxfordshire,Danny Kruger,property
 8143,252404be51696f86db6879bf667f8a6c,new,2026-03-11T06:53:31.720693,,Chair of the UNISON Group of Labour MP's.  This is an unpaid role.,Katrina Murray,miscellaneous
-8144,3eb824ed7608ee07d2d42c79bbe16217,new,2026-03-11T06:53:31.720693,,Director of Walsingham Estate Properties 2024 Limited,Jerome Mayhew,miscellaneous
-8145,b4fdff896d16e4428f8a52f5c71e219e,new,2026-03-11T06:53:31.720693,,Political Patron for CRAFT (the new body for the UK comedy industry). This is an unpaid role.,Dr Simon Opher,miscellaneous
-8146,0ab3720dbb24273f213ea129de65625f,new,2026-03-11T06:53:31.720693,,Unpaid appointment to the President of Ukraine’s International Advisory Council for the Economic Renewal of Ukraine.,Rishi Sunak,miscellaneous
-8147,ebb9ff02ec8b49b50bb01c5375a5da22,new,2026-03-11T06:53:31.720693,,Director of Walsingham Estate Company 2024 Limited,Jerome Mayhew,miscellaneous
-8148,1d9adf7642bddd716c6a01c20f52ca0d,new,2026-03-11T06:53:31.720693,,Unpaid director of Walsingham Estate Trading Ltd,Jerome Mayhew,miscellaneous
-8149,a145aeeaa9d7681ffe1897695249e923,new,2026-03-11T06:53:31.720693,,Unpaid director of Walsingham Estate Farming Ltd,Jerome Mayhew,miscellaneous
-8150,c6d4fe3e987a8b64557011b881bab14c,new,2026-03-11T06:53:31.720693,,Unpaid director of Walsingham Estate Properties Ltd,Jerome Mayhew,miscellaneous
-8151,d679ed3836b1c694bb72e02593488093,new,2026-03-11T06:53:31.720693,,Member of the British Group Inter-Parliamentary Union Executive Committee. This is an unpaid role.,Adam Jogee,miscellaneous
-8152,97054167ab7a2bb6c6e243ec0f541801,new,2026-03-11T06:53:31.720693,,Unpaid paid trustee and Chair of Initiatives of Change,Mike Kane,miscellaneous
-8153,c17364b4ffd3555fc0804b6c0b1d3352,new,2026-03-11T06:53:31.720693,,Directorship of a company not trading - Sole director of MCS Electrical Project Ltd. This is an unpaid role.,Markus Campbell-Savours,miscellaneous
-8154,68b0f1bfa095b56d3e8b86f40c8a5ce8,new,2026-03-11T06:53:31.720693,,Payment expected for services on 25 February 2026 - £150.00,Dame Karen Bradley,overall
-8155,2ac05261ff79991643eed7c99c741b07,new,2026-03-11T06:53:31.720693,,"Payment received on 25 February 2026 - £10,000.00",Chris Bryant,overall
-8156,539481bbd1ed5ebed0903ef46fd2b44c,new,2026-03-11T06:53:31.720693,,"Payment received on 15 February 2026 - £5,000.00",Sir Geoffrey Cox,overall
-8157,d2b528e2ce113e556653751d77d2836c,new,2026-03-11T06:53:31.720693,,"Payment received on 17 February 2026 - £4,436.10",Tony Vaughan,overall
-8158,041031460d2761d826515ba21e7648a1,new,2026-03-11T06:53:31.720693,,Payment received on 11 February 2026 - £770.13,Tony Vaughan,overall
-8159,8fa3f009ace0a041de20eba79769a63d,new,2026-03-11T06:53:31.720693,,"Payment received on 27 February 2026 - £1,573.00",Ayoub Khan,overall
-8160,9475f7caac67f14e32363b25d13a9c16,new,2026-03-11T06:53:31.720693,,"Payment received on 15 February 2026 - £23,000.00",Sir Geoffrey Cox,overall
-8161,85b0e6a6c27a205022856a04dfd9dde4,new,2026-03-11T06:53:31.720693,,Directorship of a company not trading - Sole director of MCS Electrical Project Ltd. This is an unpaid role.,Markus Campbell-Savours,overall
-8162,66c35221ed42dd4b3f4763675e212ad6,new,2026-03-11T06:53:31.720693,,"Payment received on 05 March 2026 - £16,000.00",Sir Jeremy Hunt,overall
-8163,c2e74f591244dfa1141607a63a9b7842,new,2026-03-11T06:53:31.720693,,"Payment received on 11 February 2026 - £8,496.24",Rishi Sunak,overall
-8164,8a81e5a6c4029f486e301d35846ac0c1,new,2026-03-11T06:53:31.720693,,International visit to Falkland Islands between 17 February 2025 and 21 February 2025,Richard Baker,overall
-8165,d658ca176eee4dc4d241a740be481afd,new,2026-03-11T06:53:31.720693,,"Payment received on 13 February 2026 - £1,350.00",Barry Gardiner,overall
-8166,8f6917d36b58b3aa7e7bdb7abe5d144f,new,2026-03-11T06:53:31.720693,,"Payment received on 27 February 2026 - £4,000.00",Steve Barclay,overall
-8167,1e7ac6ffa7f11b221cd4111db17a5bd5,new,2026-03-11T06:53:31.720693,,"Payment received on 25 February 2026 - £1,000.00",Barry Gardiner,overall
-8168,6d9df2383dd5eb3e11a120257456e746,new,2026-03-11T06:53:31.720693,,Payment received on 19 February 2026 - £560.00,Esther McVey,overall
-8169,dcf8c09db948fc0e912770ae93f98c8a,new,2026-03-11T06:53:31.720693,,Property in Val de Louyre,Richard Baker,overall
-8170,d4956c16282eb6793278d172b0b92fd4,new,2026-03-11T06:53:31.720693,,International visit to Jordan between 20 July 2025 and 25 July 2025,Richard Baker,overall
-8171,a53dfffac77cacf24ea7de8ff9353912,new,2026-03-11T06:53:31.720693,,"Payment received on 15 February 2026 - £50,000.00",Sir Geoffrey Cox,overall
-8172,8cae77fad20812eea3d1c7d40190784f,new,2026-03-11T06:53:31.720693,,"Good Law Project Ltd - £3,100.00",Clive Lewis,overall
-8173,605c32d0a01be477d77ea274e3180081,new,2026-03-11T06:53:31.720693,,Writing articles - Tiempo Company,Tom Tugendhat,overall
-8174,bba0cd45b66bd678fee980bd7d13743c,new,2026-03-11T06:53:31.720693,,"Payment received on 05 February 2026 - £1,767.24",Tom Tugendhat,overall
-8175,03fa398bfab9b837afa228f4ea5d03f1,new,2026-03-11T06:53:31.720693,,Unpaid appointment to the President of Ukraine’s International Advisory Council for the Economic Renewal of Ukraine.,Rishi Sunak,overall
-8176,f870a8af1646fa6d81db1ab62701fe21,new,2026-03-11T06:53:31.720693,,"Linda Riley - £5,000.00",Olivia Bailey,overall
-8177,5f50e68c2dac3a73561ccb8212f304d7,new,2026-03-11T06:53:31.720693,,"Kevin Craig - £2,000.00",Olivia Bailey,overall
-8178,961a1ea543ffca2bc1bef6614858c76e,new,2026-03-11T06:53:31.720693,,International visit to United States between 06 February 2026 and 08 February 2026,Naz Shah,overall
-8179,6630b074df9142f0821099d0ca7e41ee,new,2026-03-11T06:53:31.720693,,"Betterworld Ltd - £2,500.00",Dan Tomlinson,overall
-8180,4fba927442f26af60a1b1ae8028d930a,new,2026-03-11T06:53:31.720693,,Member of the British Group Inter-Parliamentary Union Executive Committee. This is an unpaid role.,Adam Jogee,overall
-8181,7dd19a4db4ef0ac669737680728202de,new,2026-03-11T06:53:31.720693,,The Conservative and Unionist Party - £500.00,Aphra Brandreth,overall
-8182,1aa5a6ab35282a662749f51eefdfc07b,new,2026-03-11T06:53:31.720693,,International visit to Israel between 04 January 2026 and 09 January 2026,Peter Fortune,overall
-8183,d9712f58e7943750c1ac6ca8b7a7d0ec,new,2026-03-11T06:53:31.720693,,"Edward Sells - £10,000.00",Helen Whately,overall
-8184,fe7c47a56c874f26d49675c58990b6f6,new,2026-03-11T06:53:31.720693,,Unpaid paid trustee and Chair of Initiatives of Change,Mike Kane,overall
-8185,cf73bbbd7987a0378d8b9f4db5bab133,new,2026-03-11T06:53:31.720693,,"SME4LABOUR LTD - £4,797.00",Mr Hamish Falconer,overall
-8186,11771d37fe9d30d2b191cd6679e00a1b,new,2026-03-11T06:53:31.720693,,"Community Union - £1,000.00",Gregor Poynton,overall
-8187,7169b7ff97ba9cbfe3bc58823f14ffca,new,2026-03-11T06:53:31.720693,,The Henry Jackson Society - £698.48,David Reed,overall
-8188,fca9876463dda5b815c902c46c0887e9,new,2026-03-11T06:53:31.720693,,Property in West Oxfordshire,Danny Kruger,overall
-8189,a361f9670ed750b8ddb7522553954c3f,new,2026-03-11T06:53:31.720693,,The Peace and Justice Project - £59.39,Jeremy Corbyn,overall
-8190,027084183f22b6d068049b2bdb21dec9,new,2026-03-11T06:53:31.720693,,The Peace and Justice Project - £32.46,Jeremy Corbyn,overall
-8191,b7363a76e5820b7658be9ca10c9f7730,new,2026-03-11T06:53:31.720693,,Peace and Justice Project - £137.66,Jeremy Corbyn,overall
-8192,402a1543a97b65d5b3c6922282ce8bfc,new,2026-03-11T06:53:31.720693,,The Peace and Justice Project - £25.54,Jeremy Corbyn,overall
-8193,e14023d623be6b6ed8c227feb04812bd,new,2026-03-11T06:53:31.720693,,The Peace and Justice Project - £47.94,Jeremy Corbyn,overall
-8194,e341abb354baa14a063dfd23671b8b08,new,2026-03-11T06:53:31.720693,,The Peace and Justice Project - £71.27,Jeremy Corbyn,overall
-8195,4961cc7e87a7ec108f1b7dfad995b9c8,new,2026-03-11T06:53:31.720693,,Peace and Justice Project - £23.04,Jeremy Corbyn,overall
-8196,17972dec797401d106e24f0a57977892,new,2026-03-11T06:53:31.720693,,Pece and Justice Project - £48.05,Jeremy Corbyn,overall
-8197,bfeac832ba0dd61cb07f723e7b971980,new,2026-03-11T06:53:31.720693,,The Peace and Justice Project - £51.90,Jeremy Corbyn,overall
-8198,9f3dc884a57836347ab3fa5ff72dd07d,new,2026-03-11T06:53:31.720693,,Peace and Justice Project - £63.79,Jeremy Corbyn,overall
-8199,a0e5406665fae323909b0714daf3f68c,new,2026-03-11T06:53:31.720693,,Peace and Justice Project - £78.75,Jeremy Corbyn,overall
-8200,df57a80518f60ab8c9ca75a2da4fd93a,new,2026-03-11T06:53:31.720693,,Peace and Justice Project - £39.79,Jeremy Corbyn,overall
-8201,7ff11f71b653935a82e678677410cfdf,new,2026-03-11T06:53:31.720693,,"National Liberal Club - £1,140.00",Vikki Slade,overall
-8202,9024543727016badc14881ca94446f6d,new,2026-03-11T06:53:31.720693,,Henry Jackson Society - £699.00,Sir Julian Lewis,overall
-8203,eeb098234b1b37a3bb5e65d005405f9c,new,2026-03-11T06:53:31.720693,,Appointment to Member of Advisory Board for RL Datix - RL Datix (EBT) Ltd,Sir Jeremy Hunt,overall
-8204,74b8f38fa93a0de7a9c7ef70b304efe3,new,2026-03-11T06:53:31.720693,,"Payment received on 16 February 2026 - £35,000.00",Sir Jeremy Hunt,overall
-8205,7b9bf75a956f1323f652dd5db5875faa,new,2026-03-11T06:53:31.720693,,"National Liberal Club - £1,140.00",Clive Jones,overall
-8206,0e0373aeef74840b391b517390bc13f9,new,2026-03-11T06:53:31.720693,,"Oluwole Kolade - £5,000.00",Nick Timothy,overall
-8207,a4180a8f0665c61e2982bf4f00193c99,new,2026-03-11T06:53:31.720693,,"Channel 4 - £3,666.66",Nigel Huddleston,overall
-8208,07dd1dba60e4761c9efd78ece857c674,new,2026-03-11T06:53:31.720693,,"BPI (British Recorded Music Industry) Limited - £5,016.00",Nigel Huddleston,overall
-8209,4fcd1b1a5902c6d6557c4ff291a71716,new,2026-03-11T06:53:31.720693,,UK Chamber of Shipping - £302.40,Darren Paffey,overall
-8210,7f714507c63f5ee25cdc1d79a53e5be8,new,2026-03-11T06:53:31.720693,,"BPI (British Recorded Music Industry) Ltd - £5,016.00",Lucy Powell,overall
-8211,26b475ba33c17f6fbe29a47a3d15f5ee,new,2026-03-11T06:53:31.720693,,International visit to Germany between 12 February 2026 and 15 February 2026,Yuan Yang,overall
-8212,030936b5a1aeb082038b18cec3059698,new,2026-03-11T06:53:31.720693,,International visit to Albania between 13 February 2026 and 18 February 2026,Mr Paul Foster,overall
-8213,140db90ee570636a205db2d5065fbbde,new,2026-03-11T06:53:31.720693,,International visit to Turkey between 15 February 2026 and 17 February 2026,Afzal Khan,overall
-8214,0f8013c9d165149e6b8c51b2eff8da94,new,2026-03-11T06:53:31.720693,,International visit to Pakistan between 23 January 2026 and 02 February 2026,Imran Hussain,overall
-8215,bc812596cb03319a72408193473f221d,new,2026-03-11T06:53:31.720693,,"Jerome Betts - £2,500.00",Steve Darling,overall
-8216,9e621505c6d516e6507f8c76df6e9c30,new,2026-03-11T06:53:31.720693,,"NBC Universal International - £4,400.00",Sir John Whittingdale,overall
-8217,a6dee88792b56734d158f7d35edf88d3,new,2026-03-11T06:53:31.720693,,"Alan Morton - £20,000.00",Josh Babarinde,overall
-8218,add61013b7aac043788468a93714cb69,new,2026-03-11T06:53:31.720693,,"Tratos UK Limited - £4,276.56",Alberto Costa,overall
-8219,971ca57bcbb1a802aa8293d1148dd45b,new,2026-03-11T06:53:31.720693,,International visit to Zimbabwe between 21 February 2026 and 25 February 2026,Sir Andrew Mitchell,overall
-8220,10993832e9a58d22b3603889ec5af38c,new,2026-03-11T06:53:31.720693,,"BPI (British Recorded Music) Ltd - £3,430.00",Sir John Whittingdale,overall
-8221,53cd9a53e342a8f3cd5c744fd0476f9d,new,2026-03-11T06:53:31.720693,,International visit to Iraq between 15 February 2026 and 20 February 2026,Jim Shannon,overall
-8222,1a69cc95724dc772fd5bda1bf1b7f5a9,new,2026-03-11T06:53:31.720693,,"British Phonographic Industry Limited (BPI) - £2,860.00",Jeff Smith,overall
-8223,3d155ddadc03c754724f793a4c0c8823,new,2026-03-11T06:53:31.720693,,International visit to United States between 29 January 2026 and 22 February 2026,Sir James Cleverly,overall
-8224,ee4153601321527d4e9c9c45dcacaa0e,new,2026-03-11T06:53:31.720693,,"British Recorded Music Industry - £3,432.00",Mr Joshua Reynolds,overall
-8225,f9ba127ef993fb329fb7eb71a02ceb91,new,2026-03-11T06:53:31.720693,,Political Patron for CRAFT (the new body for the UK comedy industry). This is an unpaid role.,Dr Simon Opher,overall
-8226,3cae1f2439df13a871388e4b7dd8b346,new,2026-03-11T06:53:31.720693,,"Al Breach - £12,500.00",Charlie Maynard,overall
-8227,574102abf91b72b6ba0887d10a0e3d90,new,2026-03-11T06:53:31.720693,,International visit to Cayman Islands between 13 February 2026 and 17 February 2026,Dr Al Pinkerton,overall
-8228,2a1df1a1c424a3110d522adca40af10f,new,2026-03-11T06:53:31.720693,,"BPI (British Recorded Music Industry) Ltd - £3,432.00",Mr James Frith,overall
-8229,2a7fcada2b7d99871d3d70711010786a,new,2026-03-11T06:53:31.720693,,"BPI (British Recorded Music Industry) Ltd - £3,432.00",Anneliese Midgley,overall
-8230,bfe8cc04e9f36416ba1d3a2ab4a364f8,new,2026-03-11T06:53:31.720693,,International visit to Ukraine between 20 February 2026 and 25 February 2026,Dr Neil Shastri-Hurst,overall
-8231,8a6ef6c2664ff8b09faf1d23a663c857,new,2026-03-11T06:53:31.720693,,The Henry Jackson Society - £349.91,Andrew Griffith,overall
-8232,0c3259c79e12ff8aa09f3d7f605cba5e,new,2026-03-11T06:53:31.720693,,CEFTUS Ltd - £420.00,Helen Maguire,overall
-8233,5c86e1daf596eebd2a22ca9da421e753,new,2026-03-11T06:53:31.720693,,Chair of the UNISON Group of Labour MP's.  This is an unpaid role.,Katrina Murray,overall
-8234,f01c9ac386cb7c977cc09b0e0d59860e,new,2026-03-11T06:53:31.720693,,"British recorded music industry Ltd - £3,432.00",Afzal Khan,overall
-8235,0fe66170178744433d4bf098c40848f0,new,2026-03-11T06:53:31.720693,,Legal services - ABH Holdings SA,Sir Geoffrey Cox,overall
-8236,b22d978c3823fb55ffb7dc3ac83a099c,new,2026-03-11T06:53:31.720693,,"Payment received on 15 February 2026 - £33,000.00",Sir Geoffrey Cox,overall
-8237,9184d05c7a3f18ecb54f7e070b88ab34,new,2026-03-11T06:53:31.720693,,Unpaid director of Walsingham Estate Properties Ltd,Jerome Mayhew,overall
-8238,00ed67b005e0f93949825e8ad2e05fdf,new,2026-03-11T06:53:31.720693,,Unpaid director of Walsingham Estate Farming Ltd,Jerome Mayhew,overall
-8239,fd6dd1a306a61549b40d81df79c98dd1,new,2026-03-11T06:53:31.720693,,Unpaid director of Walsingham Estate Trading Ltd,Jerome Mayhew,overall
-8240,5563eedaa6512fde87bef50243e1de42,new,2026-03-11T06:53:31.720693,,Director of Walsingham Estate Properties 2024 Limited,Jerome Mayhew,overall
-8241,59c20704dfba2f29dcb19520f695b667,new,2026-03-11T06:53:31.720693,,Director of Walsingham Estate Company 2024 Limited,Jerome Mayhew,overall
-8242,d2b8a2ea3016749f6813b3188a19a56b,new,2026-03-11T06:53:31.720693,,International visit to Maldives between 19 February 2026 and 22 February 2026,Nigel Farage,overall
-8243,aab3d21a50ea8ce39efdcb67a160e07b,new,2026-03-11T06:53:31.720693,,"Earthcott Ltd - £2,400.00",Joani Reid,overall
-8065,f1c799784cf23783d6744657855e84a5,new,2026-02-26T06:59:21.745665,,"Company Director, One Nine Seven Investments Ltd and A&H Bros (& others) Investments Ltd.
-I resigned as Director of One Nine Seven Investments Ltd on 07/08/2025.
-I resigned as Director of A&H Bros (& others) Investments Ltd on 18 July 2025.
-I continue to hold shares in both companies, listed separately.",Mr Adnan Hussain,miscellaneous
-8066,6078dbc5f8c98f34158a5c5cc55c855a,new,2026-02-26T06:59:21.745665,,"Company Director, One Nine Seven Investments Ltd and A&H Bros (& others) Investments Ltd.
-I resigned as Director of One Nine Seven Investments Ltd on 07/08/2025.
-I resigned as Director of A&H Bros (& others) Investments Ltd on 18 July 2025.
-I continue to hold shares in both companies, listed separately.",Mr Adnan Hussain,overall
-7857,44f5591fda768a23faa57c790b726a01,new,2026-02-25T07:01:34.163919,,"Payment received on 31 January 2026 - £110,591.51",Sir Geoffrey Cox,ad_hoc_payments
-7858,3e4f54449df1482f9faf8c97708d7de4,new,2026-02-25T07:01:34.163919,,Payment received on 12 February 2026 - £249.98,Wes Streeting,ad_hoc_payments
-7859,66b7b034c0b8ff9a6744d35ec3d10c85,new,2026-02-25T07:01:34.163919,,"Payment expected for services on 07 March 2026 - £27,856.88",Nigel Farage,ad_hoc_payments
-7860,0f3751bf50f80b520dfd9a17bd75c3d4,new,2026-02-25T07:01:34.163919,,Payment received on 13 February 2026 - £432.18,Nigel Farage,ad_hoc_payments
-7861,9bbaa4972597484a64d0770d7073c9b1,new,2026-02-25T07:01:34.163919,,Payment received on 04 February 2026 - £893.69,Nigel Farage,ad_hoc_payments
-7862,bdd30f2c188dc5cae28bda714f3ab012,new,2026-02-25T07:01:34.163919,,"Payment received on 18 February 2026 - £2,209.01",Rupert Lowe,ad_hoc_payments
-7863,6e4e48b12c3f46f6412d3cbefd879029,new,2026-02-25T07:01:34.163919,,"Payment received on 11 February 2026 - £12,000.00",Sir Jeremy Hunt,ad_hoc_payments
-7864,2d2b9001c64e71586afb1757d5f3d60d,new,2026-02-25T07:01:34.163919,,"Payment received on 11 February 2026 - £16,000.00",Sir Jeremy Hunt,ad_hoc_payments
-7865,8dc9ef9658e652ee506ed846762d8c7b,new,2026-02-25T07:01:34.163919,,Payment received on 17 February 2026 - £500.00,Sir Iain Duncan Smith,ad_hoc_payments
-7866,f11c99b6d36cdc684dd7783cef6a80c8,new,2026-02-25T07:01:34.163919,,Payment received on 13 February 2026 - £40.00,Sir Iain Duncan Smith,ad_hoc_payments
-7867,483eb82a8545c533acd7aa73ae0b9661,new,2026-02-25T07:01:34.163919,,"Payment received on 06 February 2026 - £10,000.00",Sir Oliver Dowden,ad_hoc_payments
-7868,f60d3165ed5fec7a002c79545cbab91a,new,2026-02-25T07:01:34.163919,,"Payment expected for services on 26 January 2026 - £5,880.00",Sir John Hayes,ad_hoc_payments
-7869,7931cd848643a5506a11dc989df47d63,new,2026-02-25T07:01:34.163919,,Payment received on 12 February 2026 - £365.92,Jess Phillips,ad_hoc_payments
-7870,1ee1abb0c39921478bfda90414054111,new,2026-02-25T07:01:34.163919,,"Payment received on 03 February 2026 - £2,166.66",Esther McVey,ad_hoc_payments
-7871,737a3f1eec62787aa6da0dbd1fb7b4f2,new,2026-02-25T07:01:34.163919,,Payment received on 09 January 2026 - £325.85,Richard Tice,ad_hoc_payments
-7872,4da18952ebfba1c12626d335e45665ac,new,2026-02-25T07:01:34.163919,,Payment received on 03 February 2026 - £216.21,Richard Tice,ad_hoc_payments
-7873,d9c45fbc59b2da75dd4a7f0a516b4b7b,new,2026-02-25T07:01:34.163919,,"Payment received on 03 February 2026 - £2,000.00",Mark Garnier,ad_hoc_payments
-7874,d97fe6580d526ea3fae1e7f7e4fb4b1a,new,2026-02-25T07:01:34.163919,,"Payment received on 13 January 2026 - £4,100.00",Liam Byrne,ad_hoc_payments
-7875,c89689f0f09ade52c2c5bd9571e64adb,new,2026-02-25T07:01:34.163919,,Payment received on 23 January 2026 - £200.00,Sir Iain Duncan Smith,ad_hoc_payments
-7876,a9bf0b9ec697244c6c800ab86f6fdc86,new,2026-02-25T07:01:34.163919,,"Agreement starting 02 February 2026 - £44,304.00",Sir Andrew Mitchell,ongoing_employment
-7877,397c5b833376957aceca6dfc2cd0aac3,new,2026-02-25T07:01:34.163919,,"Agreement starting 08 July 2025 - £1,096,544.13",Rishi Sunak,ongoing_employment
-7878,9f606aecdda2f0d1be5b8763bb426eb3,new,2026-02-25T07:01:34.163919,,"Agreement starting 09 February 2026 - £60,000.00",John Glen,ongoing_employment
-7879,3488173da22895b7f82a1f8fa485da93,new,2026-02-25T07:01:34.163919,,"Agreement starting 31 January 2026 - £3,067.88",Tom Tugendhat,ongoing_employment
-7880,a4439f7ffa6ae2b3f19e826e6cd80bb2,new,2026-02-25T07:01:34.163919,,"Agreement starting 31 December 2025 - £9,005.94",Richard Tice,ongoing_employment
-7881,648950e6125e6e57c1ee68a45ef43951,new,2026-02-25T07:01:34.163919,,"James Moore - £2,500.00",Vikki Slade,donations
-7882,ae80c4bd884a9ff27720a0ef7c12e5c9,new,2026-02-25T07:01:34.163919,,"Jonathan Conibear - £5,000.00",Calum Miller,donations
-7883,bf476244ea3b25a6a178210adb33c10a,new,2026-02-25T07:01:34.163919,,"Barry Hearn OBE - £10,000.00",Andrew Rosindell,donations
-7884,dd87f78e4d94468fb6df10c54002c024,new,2026-02-25T07:01:34.163919,,"Andrew Sells - £5,000.00",Nick Timothy,donations
-7885,f8a078bd1f551cdcf7f03b315f8b9087,new,2026-02-25T07:01:34.163919,,"Gary Lubner - £28,500.00",Miatta Fahnbulleh,donations
-7886,c97d18099a5efd3e25568010e79be5aa,new,2026-02-25T07:01:34.163919,,"RNIE Group LTD - £10,000.00",Mrs Kemi Badenoch,donations
-7887,99f110098bc2833161299cd22bdd50c6,new,2026-02-25T07:01:34.163919,,"Ewan Kirk - £10,000.00",Daisy Cooper,donations
-7888,24a66a882b51c9b03ec9d03816780d9c,new,2026-02-25T07:01:34.163919,,"Homes for Britain Ltd - £2,200.00",Kevin McKenna,donations
-7889,049fe65ce59512513716a605b0492ae1,new,2026-02-25T07:01:34.163919,,"Richard Greer - £5,000.00",Angela Rayner,donations
-7890,0bac7d5303b30804a49e178c4d3312a6,new,2026-02-25T07:01:34.163919,,"Paul Beck - £3,000.00",Jack Rankin,donations
-7891,1da43929db5dd253f9af6b3380675fd2,new,2026-02-25T07:01:34.163919,,"Susan Green - £2,000.00",Sir Mel Stride,donations
-7892,27ae3b1a9f866c40f925edfd78b88015,new,2026-02-25T07:01:34.163919,,"IPGL Limited - £2,000.00",Sir Mel Stride,donations
-7893,ec20ddd9c0ea2798b305771a0242aa58,new,2026-02-25T07:01:34.163919,,"The Refugee, Asylum and Migration Policy Project (RAMP) - £5,561.11",Tony Vaughan,donations
-7894,268533f360dd4b8ba54dfe38672c38da,new,2026-02-25T07:01:34.163919,,"The Refugee, Asylum and Migration Policy Project (RAMP) - £20,438.89",Tony Vaughan,donations
-7895,0b7c251127db9e10d3beadedc983798e,new,2026-02-25T07:01:34.163919,,"Tratos UK Limited - £4,276.55",Alberto Costa,donations
-7896,7f0e40d588407bff7ce911cf25db46bb,new,2026-02-25T07:01:34.163919,,"OPD Group Ltd (a company controlled by Peter Hearn) - £55,000.00",Wes Streeting,donations
-7897,66ed49be08e142d3c5ba3bf24ebe0235,new,2026-02-25T07:01:34.163919,,"Reeten Banerji - £3,000.00",Helen Maguire,donations
-7898,8134b65a06ae1764e80e86d7dbc3e81f,new,2026-02-25T07:01:34.163919,,"Alan Montomery - £2,511.00",Alex Brewer,donations
-7899,45019be775c2e08d4f8460461198546f,new,2026-02-25T07:01:34.163919,,"Mr Philip Rimmer - £2,060.12",Aphra Brandreth,donations
-7900,5e9015179426521024a4c6a25f8da33e,new,2026-02-25T07:01:34.163919,,"Aid Alliance - £1,860.00",Fleur Anderson,donations
-7901,a1dcfc05da025f4e8d27a6d687342a36,new,2026-02-25T07:01:34.163919,,"Aid Alliance - £1,860.00",Dr Beccy Cooper,donations
-7902,eec33bea98a95fa9cf350c97f3a087ea,new,2026-02-25T07:01:34.163919,,"Trevor Chinn - £2,500.00",Angela Rayner,donations
-7903,5be56410f3df6b9472f87f871adef78f,new,2026-02-25T07:01:34.163919,,"Sir Trevor Edwin Chinn - £1,250.00",Josh Simons,donations
-7904,ee4af63579e9f23e3c9d6e5da2916b26,new,2026-02-25T07:01:34.163919,,"Layla Moran - £1,800.00",Layla Moran,donations
-7905,7e7589cbe7ac0b86d410472d9606d5b1,new,2026-02-25T07:01:34.163919,,"GMB Southern Region - £6,600.00",Helena Dollimore,donations
-7906,01f46af21b9b9b1f6bd8f5e8a3977b28,new,2026-02-25T07:01:34.163919,,"Eric Lonergan - £5,000.00",Yuan Yang,donations
-7907,add75b5c0b5a75abb012397536be1fa5,new,2026-02-25T07:01:34.163919,,"Palace Yard Events Ltd - £32,000.00",Jo White,donations
-7908,ec4f5d34cd315d45a398be65f8b9a815,new,2026-02-25T07:01:34.163919,,"The Football Association Premier League Ltd - £1,110.00",Monica Harding,gifts_uk
-7909,42be978460e00f33fe1d5d11b3cabd71,new,2026-02-25T07:01:34.163919,,The Premier League - £386.86,Mark Sewards,gifts_uk
-7910,29a47555b64fb2b9fdf2b21c44f7e846,new,2026-02-25T07:01:34.163919,,The Football Association Premier League - £555.00,Liz Jarvis,gifts_uk
-7911,11edbb64219c79d368ee3daf45db6057,new,2026-02-25T07:01:34.163919,,East Midlands Enterprise Foundation - £500.00,Mr Peter Bedford,gifts_uk
-7912,6953c1dedd40014eab4685aab9ff97a1,new,2026-02-25T07:01:34.163919,,English National Opera - £358.00,Bambos Charalambous,gifts_uk
-7913,137dead8a0b13d77d214fc916f30a1f4,new,2026-02-25T07:01:34.163919,,Babcock International PLC - £177.00,Graeme Downie,gifts_uk
-7914,98c818a1ca3b7d246a8b8c19ac967c86,new,2026-02-25T07:01:34.163919,,The Football Association Premier League Ltd - £550.00,Bambos Charalambous,gifts_uk
-7915,053f10bcfed62a95e1966c6aa04801c6,new,2026-02-25T07:01:34.163919,,Enersoft International Limited - £900.00,Brendan O'Hara,gifts_uk
-7916,508fb823db5d44e4f172a66d5ea43982,new,2026-02-25T07:01:34.163919,,THE NORTON MOTORCYCLE CO. LIMITED - £899.00,Dr Neil Shastri-Hurst,gifts_uk
-7917,092b2d9b1e6813f403dce5216bb23f59,new,2026-02-25T07:01:34.163919,,THE NORTON MOTORCYCLE CO. LIMITED - £40.00,Dr Neil Shastri-Hurst,gifts_uk
-7918,cd377fbadb0fa0596a40cebd7a2e120e,new,2026-02-25T07:01:34.163919,,"National Liberal Club - £1,140.00",Zöe Franklin,gifts_uk
-7919,6658efc623cb1bf83eeaf6d233289214,new,2026-02-25T07:01:34.163919,,Enersoft International Ltd - £900.00,Stephen Flynn,gifts_uk
-7920,026f5e2089743e33692a630b7e2fa08a,new,2026-02-25T07:01:34.163919,,Enersoft International Ltd - £625.00,Brendan O'Hara,gifts_uk
-7921,cb3af540ec1c79a35aebb9a24bb80193,new,2026-02-25T07:01:34.163919,,International visit to United Arab Emirates between 27 January 2026 and 01 February 2026,Dan Carden,visits
-7922,57bcd6836d3306e935f3dc793408fce1,new,2026-02-25T07:01:34.163919,,International visit to India between 23 January 2026 and 26 January 2026,Chris Law,visits
-7923,3a1bebad89ed6eba4f3d547af991f06b,new,2026-02-25T07:01:34.163919,,International visit to Germany between 22 January 2026 and 23 January 2026,Sir Jeremy Wright,visits
-7924,fa1e9c9d83ad0181ef257e542a6e4394,new,2026-02-25T07:01:34.163919,,International visit to United States between 01 February 2026 and 08 February 2026,Sir Iain Duncan Smith,visits
-7925,6347d3ece788d26854a3fce7dd0f1d5f,new,2026-02-25T07:01:34.163919,,International visit to United Arab Emirates between 27 January 2026 and 30 January 2026,Sir Oliver Dowden,visits
-7926,2859822883f90d236569258450bfce36,new,2026-02-25T07:01:34.163919,,International visit to France between 15 January 2026 and 17 January 2026,Torsten Bell,visits
-7927,351f7ae5850357aaa80d403fa7ca2665,new,2026-02-25T07:01:34.163919,,International visit to Pakistan between 22 January 2026 and 27 January 2026,Yasmin Qureshi,visits
-7928,37eb79aecae2595eb71cecf167dc32d0,new,2026-02-25T07:01:34.163919,,International visit to Israel between 25 January 2026 and 29 January 2026,Mark Sewards,visits
-7929,ec7b8f7428807eb32f762291cb10419d,new,2026-02-25T07:01:34.163919,,International visit to Switzerland between 05 November 2025 and 07 November 2025,Liam Conlon,visits
-7930,dbfda8f21f0d9dc4a6edd904de9f30c7,new,2026-02-25T07:01:34.163919,,International visit to France between 15 January 2026 and 17 January 2026,Alex Burghart,visits
-7931,1ac24c3eeb37e3ff5e5fa957b4a3ccf2,new,2026-02-25T07:01:34.163919,,International visit to Canada between 12 January 2026 and 17 January 2026,Tom Tugendhat,visits
-7932,9e5d9a16101a8dceed381dbef9e60705,new,2026-02-25T07:01:34.163919,,International visit to Taiwan between 17 January 2026 and 21 January 2026,Tom Tugendhat,visits
-7933,f92e1c1034af01b807413cb1aec7d38e,new,2026-02-25T07:01:34.163919,,International visit to Colombia between 22 January 2026 and 29 January 2026,Zarah Sultana,visits
-7934,9ebf1340df0dac875601b4be1c185f7b,new,2026-02-25T07:01:34.163919,,International visit to France between 15 January 2025 and 17 January 2025,Laura Trott,visits
-7935,5542c17fe8527ca8e3eb42ed32dd61d0,new,2026-02-25T07:01:34.163919,,International visit to Netherlands between 18 January 2026 and 19 January 2026,Irene Campbell,visits
-7936,16cb3483a589d821d8c003e3a07e138f,new,2026-02-25T07:01:34.163919,,International visit to France between 15 January 2026 and 17 January 2026,Gareth Davies,visits
-7937,e9105bfab4701ca9e49d7dcf1709f070,new,2026-02-25T07:01:34.163919,,International visit to Nepal between 16 May 2025 and 23 May 2025,Al Carns,visits
-7938,ff0a87f0df8cce321a3b0f7e53d8ebd3,new,2026-02-25T07:01:34.163919,,International visit to Switzerland between 05 November 2025 and 07 November 2025,Richard Quigley,visits
-7939,cb167ab808ce2e6522de1bc334510684,new,2026-02-25T07:01:34.163919,,"Solix ApS - £2,877.60",Stephen Kinnock,gifts_foreign
-7940,c89a41bfece43b9f7fc83d7b3c06555a,new,2026-02-25T07:01:34.163919,,Property in Cowes,Richard Quigley,property
-7941,7755320ce7337e0904cc304f96c30699,new,2026-02-25T07:01:34.163919,,"Member of the Leadership Council, Fortify Rights. This is an unpaid role.",Tom Tugendhat,miscellaneous
-7942,196f763e59a2685225e2367722021698,new,2026-02-25T07:01:34.163919,,"Chairman, Conservative Friends of Hong Kong. This is an unpaid role.",Tom Tugendhat,miscellaneous
-7943,397c26c727345dfad568006d6e1cdbd4,new,2026-02-25T07:01:34.163919,,Elected member of Bassetlaw District Council for Worksop East ward. This is an unpaid role for which I do not receive remuneration. (It was previously registered under Category 1.),Jo White,miscellaneous
-7944,c56d16f22442cf4b5bd06f44dbfcdf9f,new,2026-02-25T07:01:34.163919,,Chair of the Cross-Party Group for Social Work. This is an unpaid role.,Ian Byrne,miscellaneous
-7945,9d83e150b946ba177968879d2eac698d,new,2026-02-25T07:01:34.163919,,Chairman of the Conservative Friends of Hong Kong. This is an unpaid role.,Tom Tugendhat,miscellaneous
-7946,1294d9c48e7c57bb51fc9480ea36eba7,new,2026-02-25T07:01:34.163919,,Director of PATA Nurseries. This is an unpaid role.,Matt Bishop,miscellaneous
-7947,4f4295cdd7e1ca9a42fd761d86238135,new,2026-02-25T07:01:34.163919,,Advisory Board Member (I have a shareholding that is below the threshold for registration under Category 7).,Tom Tugendhat,miscellaneous
-7948,4f0558c8208d507a44507084308db8c8,new,2026-02-25T07:01:34.163919,,Advisory Board Member (I have a shareholding that is below the threshold for registration under Category 7),Tom Tugendhat,miscellaneous
-7949,cc22de0c406658e3a60b0ae86c89747b,new,2026-02-25T07:01:34.163919,,Member of the International Advisory Board [unpaid],Tom Tugendhat,miscellaneous
-7950,8c763817be257285e50a7d5d3096fa97,new,2026-02-25T07:01:34.163919,,Member of Executive Committee of Tribune Group of Labour MPs.  This is an unpaid role.,Justin Madders,miscellaneous
-7951,53a191b03b877926625132a8424895dd,new,2026-02-25T07:01:34.163919,,Treasurer and Member of Executive Committee of Tribune Group of Labour MPs. This is an unpaid role.,Dr Beccy Cooper,miscellaneous
-7952,77cdbb2c4f5ca63be26840cf1a0706a1,new,2026-02-25T07:01:34.163919,,Director of The Office of Angela Rayner Limited (A limited company by guarantee with no shares or shareholders). This is an unpaid role.,Angela Rayner,miscellaneous
-7953,fe255fd8c352a89fbf36ef8f8cc02c81,new,2026-02-25T07:01:34.163919,,Chairman Conservative Friends of Israel Parliamentary Board (previously Vice Chairman from 1 May 2025). This is an unpaid role.,Greg Smith,miscellaneous
-7954,d1ff55d13d34417866ed97a9d3727d1a,new,2026-02-25T07:01:34.163919,,"Councillor, Isle of Wight Council",Richard Quigley,miscellaneous
-7955,a55cf03f689ab71db3a5d1cb90d8f2b7,new,2026-02-25T07:01:34.163919,,"Company Director, One Nine Seven Investments Ltd and A&H Bros (& others) Investments Ltd.
-I resigned as Director of One Nine Seven Investments Ltd on 07/08/2025.
-I resigned as Director of A&H Bros (& others) Investments Ltd on 18 July 2025.
-I continue to hold shares in both companies, listed separately.",Mr Adnan Hussain,miscellaneous
-7956,dc941933a4c706bcf609d06e3cf760e0,new,2026-02-25T07:01:34.163919,,Trustee of Pan Together,Richard Quigley,miscellaneous
-7957,3b93c3361d10097ece21f53ac61ffc9a,new,2026-02-25T07:01:34.163919,,Trustee of The Footprint Trust (Isle of Wight). This is an unpaid role.,Richard Quigley,miscellaneous
-7958,512d21ea7eec29039c9d435b9071793e,new,2026-02-25T07:01:34.163919,,Payment received on 23 January 2026 - £200.00,Sir Iain Duncan Smith,overall
-7959,e82ce935acbe5ed288caf110b5df7989,new,2026-02-25T07:01:34.163919,,Payment received on 17 February 2026 - £500.00,Sir Iain Duncan Smith,overall
-7960,0f810a0425bb44ab4c2f71b2eb6870b8,new,2026-02-25T07:01:34.163919,,"Payment received on 13 January 2026 - £4,100.00",Liam Byrne,overall
-7961,dd9ba1baac7eab32f878e4cfcd8e80ca,new,2026-02-25T07:01:34.163919,,"Payment received on 03 February 2026 - £2,166.66",Esther McVey,overall
-7962,4a8bbc86d228b30474a28f4425e751e2,new,2026-02-25T07:01:34.163919,,Payment received on 12 February 2026 - £365.92,Jess Phillips,overall
-7963,999d6e22b6e4889c6c3a0b56b3805908,new,2026-02-25T07:01:34.163919,,"Payment received on 03 February 2026 - £2,000.00",Mark Garnier,overall
-7964,00cfdb3e7dcf739761bc9ce7331f816b,new,2026-02-25T07:01:34.163919,,Director - MAP Advisory Ltd,Mark Pritchard,overall
-7965,7d453f4686a4fce632ae8d36ee6c1077,new,2026-02-25T07:01:34.163919,,Property in Cowes,Richard Quigley,overall
-7966,38e267338e51bb96f2fd8ffb244115f4,new,2026-02-25T07:01:34.163919,,Trustee of The Footprint Trust (Isle of Wight). This is an unpaid role.,Richard Quigley,overall
-7967,a3392babe5f4addc5244d0c1383e2502,new,2026-02-25T07:01:34.163919,,Trustee of Pan Together,Richard Quigley,overall
-7968,cfb15d09a5c8836524c7a574f8b647a0,new,2026-02-25T07:01:34.163919,,"Agreement starting 31 December 2025 - £9,005.94",Richard Tice,overall
-7969,d605f5759d544d03a40e27c73689f1fa,new,2026-02-25T07:01:34.163919,,Payment received on 04 February 2026 - £893.69,Nigel Farage,overall
-7970,1bfd5e2b357ccd9e2d6c5ecdc1b53ddf,new,2026-02-25T07:01:34.163919,,Payment received on 13 February 2026 - £432.18,Nigel Farage,overall
-7971,cdc55120549eddba79d1a6ab173ada35,new,2026-02-25T07:01:34.163919,,"Company Director, One Nine Seven Investments Ltd and A&H Bros (& others) Investments Ltd.
-I resigned as Director of One Nine Seven Investments Ltd on 07/08/2025.
-I resigned as Director of A&H Bros (& others) Investments Ltd on 18 July 2025.
-I continue to hold shares in both companies, listed separately.",Mr Adnan Hussain,overall
-7972,59b2ddcb8351da855c909d38a7db2c72,new,2026-02-25T07:01:34.163919,,"Councillor, Isle of Wight Council",Richard Quigley,overall
-7973,b7f7fb9f9c5e0d1835b5f1e77001e81f,new,2026-02-25T07:01:34.163919,,"Payment received on 11 February 2026 - £16,000.00",Sir Jeremy Hunt,overall
-7974,992e96e5c4a7287605b5866b06f85bd5,new,2026-02-25T07:01:34.163919,,"Payment received on 11 February 2026 - £12,000.00",Sir Jeremy Hunt,overall
-7975,a69a26d7177eb67f511472893e376fbc,new,2026-02-25T07:01:34.163919,,"Payment received on 18 February 2026 - £2,209.01",Rupert Lowe,overall
-7976,65e26f9679ea36ca7c71ed7fd96afb6c,new,2026-02-25T07:01:34.163919,,Payment received on 09 January 2026 - £325.85,Richard Tice,overall
-7977,a6f2f27039b62801d71f8a75760dd564,new,2026-02-25T07:01:34.163919,,Payment received on 03 February 2026 - £216.21,Richard Tice,overall
-7978,a32af324009d2c3eb376a28243437d3f,new,2026-02-25T07:01:34.163919,,"Payment received on 06 February 2026 - £10,000.00",Sir Oliver Dowden,overall
-7979,2b9263c6f341ad91181d06c03b281727,new,2026-02-25T07:01:34.163919,,Payment received on 12 February 2026 - £249.98,Wes Streeting,overall
-7980,ffebd43694a6f342c57865bed290f6de,new,2026-02-25T07:01:34.163919,,"Payment expected for services on 26 January 2026 - £5,880.00",Sir John Hayes,overall
-7981,05c7390e7b57e1ede1916318d1fcc756,new,2026-02-25T07:01:34.163919,,Chairman Conservative Friends of Israel Parliamentary Board (previously Vice Chairman from 1 May 2025). This is an unpaid role.,Greg Smith,overall
-7982,1d5a87c05f565daec84d7b1a71886c27,new,2026-02-25T07:01:34.163919,,"Palace Yard Events Ltd - £32,000.00",Jo White,overall
-7983,9ff0d17b64b4702e1061c3b91d3eb903,new,2026-02-25T07:01:34.163919,,"Agreement starting 08 July 2025 - £1,096,544.13",Rishi Sunak,overall
-7984,27fda251716ef035fb742798dbd8c6c0,new,2026-02-25T07:01:34.163919,,"GMB Southern Region - £6,600.00",Helena Dollimore,overall
-7985,6056ee32e904a45efe802e174929c60a,new,2026-02-25T07:01:34.163919,,International visit to Switzerland between 05 November 2025 and 07 November 2025,Richard Quigley,overall
-7986,33dca603ed7d1061ed4ed980b77893c8,new,2026-02-25T07:01:34.163919,,International visit to Switzerland between 05 November 2025 and 07 November 2025,Liam Conlon,overall
-7987,7b87287f4df612a6e1acfe8e3ef004f1,new,2026-02-25T07:01:34.163919,,Chair of the Cross-Party Group for Social Work. This is an unpaid role.,Ian Byrne,overall
-7988,57eb577d60312a0840fa007a771ab3f2,new,2026-02-25T07:01:34.163919,,Enersoft International Ltd - £625.00,Brendan O'Hara,overall
-7989,b110d303284b20a3b6d2e19596024695,new,2026-02-25T07:01:34.163919,,"Reeten Banerji - £3,000.00",Helen Maguire,overall
-7990,e65e8283ae321ddfc4b96a0ce2fc17b3,new,2026-02-25T07:01:34.163919,,International visit to Nepal between 16 May 2025 and 23 May 2025,Al Carns,overall
-7991,1bcbef162c8d9c7a7910b96cf9916909,new,2026-02-25T07:01:34.163919,,"Homes for Britain Ltd - £2,200.00",Kevin McKenna,overall
-7992,d95f7842130251ec78099d18f85eab49,new,2026-02-25T07:01:34.163919,,Payment received on 13 February 2026 - £40.00,Sir Iain Duncan Smith,overall
-7993,4fe49fed5bf75c8d4c8ef66b17b7ce5b,new,2026-02-25T07:01:34.163919,,"National Liberal Club - £1,140.00",Zöe Franklin,overall
-7994,3fddcf3d7b7ac94be4840510fca55469,new,2026-02-25T07:01:34.163919,,Director of The Office of Angela Rayner Limited (A limited company by guarantee with no shares or shareholders). This is an unpaid role.,Angela Rayner,overall
-7995,18337d355b45fe989148bd4074d0621c,new,2026-02-25T07:01:34.163919,,Enersoft International Ltd - £900.00,Stephen Flynn,overall
-7996,7979cb78c03ed438e0ce433cd401ebf8,new,2026-02-25T07:01:34.163919,,"Solix ApS - £2,877.60",Stephen Kinnock,overall
-7997,dc13725fc08688d736b25eccacc1a31d,new,2026-02-25T07:01:34.163919,,"Trevor Chinn - £2,500.00",Angela Rayner,overall
-7998,1f20ba037deda24a4a8442a30638c58d,new,2026-02-25T07:01:34.163919,,"Richard Greer - £5,000.00",Angela Rayner,overall
-7999,669aee231c8ca711c41befa39fffa68c,new,2026-02-25T07:01:34.163919,,"Sir Trevor Edwin Chinn - £1,250.00",Josh Simons,overall
-8000,ac17722e16055779e92023abf6de1096,new,2026-02-25T07:01:34.163919,,"Layla Moran - £1,800.00",Layla Moran,overall
-8001,d68a4762829979a8e479712db0d9fb7a,new,2026-02-25T07:01:34.163919,,"Aid Alliance - £1,860.00",Dr Beccy Cooper,overall
-8002,499525df426ba81a0259144aac9cbd81,new,2026-02-25T07:01:34.163919,,Treasurer and Member of Executive Committee of Tribune Group of Labour MPs. This is an unpaid role.,Dr Beccy Cooper,overall
-8003,4ba269bb1de75f1ed40ce11c43be2402,new,2026-02-25T07:01:34.163919,,"Aid Alliance - £1,860.00",Fleur Anderson,overall
-8004,172ddba6e27d1867ee7299de2f6b5cd2,new,2026-02-25T07:01:34.163919,,International visit to France between 15 January 2026 and 17 January 2026,Gareth Davies,overall
-8005,41f83f994fadcb35fa86a63ed13c20be,new,2026-02-25T07:01:34.163919,,"Mr Philip Rimmer - £2,060.12",Aphra Brandreth,overall
-8006,c3e84e6ac3683921c2ddecd01890bac3,new,2026-02-25T07:01:34.163919,,Member of Executive Committee of Tribune Group of Labour MPs.  This is an unpaid role.,Justin Madders,overall
-8007,034139a2606d8bb5ebc0d84a10f632a4,new,2026-02-25T07:01:34.163919,,"Tratos UK Limited - £4,276.55",Alberto Costa,overall
-8008,842ab980ad8e9ebf53afd57e5589e858,new,2026-02-25T07:01:34.163919,,"Eric Lonergan - £5,000.00",Yuan Yang,overall
-8009,0a692eda0eea53c13b9f044e20caa2b2,new,2026-02-25T07:01:34.163919,,International visit to Netherlands between 18 January 2026 and 19 January 2026,Irene Campbell,overall
-8010,215a13dddd955e90a3378dd8d6c91f78,new,2026-02-25T07:01:34.163919,,"Alan Montomery - £2,511.00",Alex Brewer,overall
-8011,2019ebbd79a6cbca6e788fce58eb6100,new,2026-02-25T07:01:34.163919,,Advisory Board Member (I have a shareholding that is below the threshold for registration under Category 7),Tom Tugendhat,overall
-8012,a8b465fd1345ebfbe1059864842d5fd2,new,2026-02-25T07:01:34.163919,,Member of the International Advisory Board [unpaid],Tom Tugendhat,overall
-8013,19679424c416d4fa4834e468b5e6c28c,new,2026-02-25T07:01:34.163919,,Advisor - Observer Research Foundation Middle East,Tom Tugendhat,overall
